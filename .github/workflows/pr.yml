@@ -46,8 +46,7 @@ jobs:
   label:
     name: Label
     runs-on: ubuntu-latest
-    permissions:
-      pull-requests: write
+    permissions: write-all
     steps:
       - uses: bcoe/conventional-release-labels@v1.3.0
 

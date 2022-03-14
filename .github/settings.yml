@@ -83,10 +83,10 @@ branches:
         require_code_owner_reviews: false
       required_status_checks:
         strict: true
-        contexts: []
-#          - test / Test
-#          - check-branch-name
-#          - check-pr-title
+        contexts:
+          - Test / Test
+          - Check branch name
+          - Check PR title
       enforce_admins: false
       required_linear_history: true
       restrictions: null

@@ -32,6 +32,17 @@ jobs:
             The subject "{subject}" found in the pull request title "{title}" didn't match the configured pattern.
             Please ensure that the subject doesn't start with an uppercase character.
 
+  # TODO names for steps
+  check-commits:
+    name: Check commits
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Check commits
+        uses: aevea/commitsar@v0.18.0
+
+
 #  label:
 #    runs-on: ubuntu-latest
 #    steps:

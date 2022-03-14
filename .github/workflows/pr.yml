@@ -6,6 +6,7 @@ name: Pull Request
 
 jobs:
   test:
+    name: Test
     uses: ./.github/workflows/test.yml
 
   # TODO should this be named better (lint-branch-name?)

@@ -6,9 +6,11 @@ name: Main
 
 jobs:
   test:
+    name: Test
     uses: ./.github/workflows/test.yml
 
 #  release:
+#    name: Release
 #    runs-on: ubuntu-latest
 #    needs: test
 #    steps:

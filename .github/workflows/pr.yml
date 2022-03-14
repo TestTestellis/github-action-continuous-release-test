@@ -1,7 +1,7 @@
 ---
 name: Pull Request
 "on":
-  pull_request: # TODO check trigger
+  pull_request_target: # TODO check trigger
     branches: [main]
 
 jobs:
@@ -46,7 +46,7 @@ jobs:
   label:
     name: Label
     runs-on: ubuntu-latest
-    permissions: write-all
+#    permissions: write-all
     steps:
       - uses: bcoe/conventional-release-labels@v1.3.0
 

@@ -85,8 +85,8 @@ branches:
         strict: true
         contexts:
           - test / Test
-          - check-branch-naming-rules
-          - label
+          - check-branch-name
+          - check-pr-title
       enforce_admins: false
       required_linear_history: true
       restrictions: null

@@ -1,5 +1,7 @@
 <img height="150" src="docs/images/homelab.png"/>
 
+Test
+
 # GitHub action continuous release test
 
 [![Main](https://github.com/AkiKanellis/github-action-continuous-release-test/actions/workflows/main.yml/badge.svg)](https://github.com/AkiKanellis/github-action-continuous-release-test/actions/workflows/main.yml)

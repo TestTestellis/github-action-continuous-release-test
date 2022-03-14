@@ -1,7 +1,7 @@
 ---
 name: Pull Request
 "on":
-  pull_request_target: # TODO check trigger
+  pull_request: # TODO this needs to be target for the label action
     branches: [main]
 
 jobs:

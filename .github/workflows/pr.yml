@@ -33,14 +33,21 @@ jobs:
             Please ensure that the subject doesn't start with an uppercase character.
 
   # TODO names for steps
-  check-commits:
-    name: Check commits
+  # TODO maybe don't bother with this
+#  check-commits:
+#    name: Check commits
+#    runs-on: ubuntu-latest
+#    steps:
+#      - name: Checkout
+#        uses: actions/checkout@v2
+#      - name: Check commits
+#        uses: aevea/commitsar@v0.18.0
+
+  label:
+    name: Label
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Check commits
-        uses: aevea/commitsar@v0.18.0
+      - uses: bcoe/conventional-release-labels@v1.3.0
 
 
 #  label:

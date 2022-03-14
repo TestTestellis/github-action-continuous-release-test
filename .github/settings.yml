@@ -87,6 +87,7 @@ branches:
           - Test / Test
           - Check branch name
           - Check PR title
+          - Label
       enforce_admins: false
       required_linear_history: true
       restrictions: null

@@ -5,6 +5,7 @@ name: PR Target Updated
     types:
       - opened
       - edited
+      - synchronize
     branches: [main]
 
 jobs:

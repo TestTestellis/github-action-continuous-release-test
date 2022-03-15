@@ -1,7 +1,7 @@
 ---
 name: Pull Request
 "on":
-  pull_request: # TODO this needs to be target for the label action
+  pull_request:
     branches: [main]
 
 jobs:
@@ -9,21 +9,22 @@ jobs:
     name: Test
     uses: ./.github/workflows/test.yml
 
-  # TODO should this be named better (lint-branch-name?)
-  check-branch-name:
-    name: Check branch name
+  validate-branch-name:
+    name: Validate branch name
     runs-on: ubuntu-latest
     steps:
-      - uses: deepakputhraya/action-branch-name@v1.0.0
+      - name: Validate branch name
+        uses: deepakputhraya/action-branch-name@v1.0.0
         with:
           regex: ^[a-z]+\/([a-z]|-)+$ # TODO what should this regex be? Prefixes or not?
           allowed_prefixes: break,feat,bug,chore,docs
 
-  check-pr-title:
-    name: Check PR title
+  validate-pull-request-title:
+    name: Validate pull request title
     runs-on: ubuntu-latest
     steps:
-      - uses: amannn/action-semantic-pull-request@v4.2.0
+      - name: Validate pull request title
+        uses: amannn/action-semantic-pull-request@v4.2.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -42,13 +43,6 @@ jobs:
 #        uses: actions/checkout@v2
 #      - name: Check commits
 #        uses: aevea/commitsar@v0.18.0
-
-  label:
-    name: Label
-    runs-on: ubuntu-latest
-#    permissions: write-all
-    steps:
-      - uses: bcoe/conventional-release-labels@v1.2.2
 
 
 

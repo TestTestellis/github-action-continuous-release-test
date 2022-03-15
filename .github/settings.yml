@@ -86,8 +86,8 @@ branches:
         contexts:
           - Test / Test
           - Validate branch name
-          - Validate pull request title
-          - Label
+          - Validate PR title
+          - Label PR
       enforce_admins: false
       required_linear_history: true
       restrictions: null

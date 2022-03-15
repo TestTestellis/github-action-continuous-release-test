@@ -48,7 +48,7 @@ jobs:
     runs-on: ubuntu-latest
 #    permissions: write-all
     steps:
-      - uses: bcoe/conventional-release-labels@v1.3.0
+      - uses: bcoe/conventional-release-labels@v1.2.2
 
 
 

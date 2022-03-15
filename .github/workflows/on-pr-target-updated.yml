@@ -31,3 +31,15 @@ jobs:
     steps:
       - name: Label PR
         uses: bcoe/conventional-release-labels@v1.2.2
+        with:
+          type_labels:
+              feat: feature
+              fix: fix
+              docs: documentation
+              style: style
+              refactor: refactor
+              perf: performance
+              test: test
+              build: build
+              ci: ci
+              chore: chore

@@ -26,25 +26,60 @@ repository:
   enable_vulnerability_alerts: true
 
 labels:
+# Start PR labels
   - name: breaking
     color: D93F0B
     description: Breaking change
 
   - name: feature
     color: 0E8A16
-    description: New feature or request
+    description: A new feature
 
-  - name: bug
-    color: B60205
-    description: Something isn't working
-
-  - name: chore
-    color: 0BFADA
-    description: Maintainance of existing features
+  - name: fix
+    color: B60205 # TODO colour
+    description: A bug fix
 
   - name: documentation
     color: 0052CC
     description: Improvements or additions to documentation
+
+  - name: style
+    color: 0052CC # TODO colour
+    description: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
+
+  - name: refactor
+    color: 0052CC # TODO colour
+    description: A code change that neither fixes a bug nor adds a feature
+
+  - name: performance
+    color: 0052CC # TODO colour
+    description: A code change that improves performance
+
+  - name: test
+    color: 0052CC # TODO colour
+    description: Adding missing tests or correcting existing tests
+
+  - name: build
+    color: 0052CC # TODO colour
+    description: "Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)"
+
+  - name: ci
+    color: 0052CC # TODO colour
+    description: "Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)"
+
+  - name: chore
+    color: 0BFADA
+    description: Other changes that don't modify src or test files
+
+# End PR labels
+
+  - name: feature-request
+    color: 0E8A16
+    description: A feature request
+
+  - name: bug
+    color: B60205
+    description: Something isn't working
 
   - name: duplicate
     color: CFD3D7

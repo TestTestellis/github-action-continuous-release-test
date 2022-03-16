@@ -19,6 +19,7 @@ jobs:
       # this might be needed
 #      env:
 #        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       with:
         semantic_version: 19.0.2
 

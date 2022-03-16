@@ -9,6 +9,19 @@ jobs:
     name: Test
     uses: ./.github/workflows/test.yml
 
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+    needs: test
+    steps:
+    - name: Release
+      uses: cycjimmy/semantic-release-action@v3.0.0
+      # this might be needed
+#      env:
+#        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        semantic_version: 19.0.2
+
 #  release:
 #    name: Release
 #    runs-on: ubuntu-latest

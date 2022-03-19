@@ -1,17 +1,18 @@
 ---
 debug: true
 branches: main
-preset: angular
 plugins:
-  - "@semantic-release/commit-analyzer"
-  - "@semantic-release/release-notes-generator"
+  - - "@semantic-release/commit-analyzer"
+    - preset: angular
+      releaseRules:
+        - type: refactor
+          release: patch
+        - type: build
+          release: patch
+        - type: ci
+          release: patch
+  - - "@semantic-release/release-notes-generator"
+    - preset: angular
   - "@semantic-release/github"
-  - - "@semantic-release/changelog"
-    - changelogFile: CHANGELOG.md
-  - - "@semantic-release/git"
-    - assets:
-        - CHANGELOG.md
-      message: |
-        chore(release): ${nextRelease.version} [skip ci]
-
-        ${nextRelease.notes}
+  - "@semantic-release/changelog"
+  - "@semantic-release/git"

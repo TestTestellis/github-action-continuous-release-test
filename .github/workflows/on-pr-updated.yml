@@ -19,16 +19,4 @@ jobs:
       - name: Validate branch name
         uses: deepakputhraya/action-branch-name@v1.0.0
         with:
-          regex: ^[a-z]+\/([a-z]|-)+$ # TODO what should this regex be? Prefixes or not?
-          allowed_prefixes: break,feat,bug,chore,docs
-
-  # TODO names for steps
-  # TODO maybe don't bother with this
-#  check-commits:
-#    name: Check commits
-#    runs-on: ubuntu-latest
-#    steps:
-#      - name: Checkout
-#        uses: actions/checkout@v2
-#      - name: Check commits
-#        uses: aevea/commitsar@v0.18.0
+          regex: ^([a-z]|-)+$

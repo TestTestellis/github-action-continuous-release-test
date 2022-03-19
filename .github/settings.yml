@@ -35,33 +35,37 @@ labels:
     color: 0E8A16
     description: A new feature
 
+  - name: performance
+    color: 0052CC # TODO colour
+    description: A code change that improves performance
+
   - name: fix
     color: B60205 # TODO colour
     description: A bug fix
-
-  - name: documentation
-    color: 0052CC
-    description: Improvements or additions to documentation
 
   - name: refactor
     color: 0052CC # TODO colour
     description: A code change that neither fixes a bug nor adds a feature
 
-  - name: performance
+  - name: build
     color: 0052CC # TODO colour
-    description: A code change that improves performance
+    description: Changes that affect the build system or external dependencies
+
+  - name: ci
+    color: 0052CC # TODO colour
+    description: Changes to our CI configuration files and scripts
+
+  - name: revert
+    color: 0052CC # TODO colour
+    description: Revert of a commit
 
   - name: test
     color: 0052CC # TODO colour
     description: Adding missing tests or correcting existing tests
 
-  - name: build
-    color: 0052CC # TODO colour
-    description: "Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)"
-
-  - name: ci
-    color: 0052CC # TODO colour
-    description: "Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)"
+  - name: documentation
+    color: 0052CC
+    description: Improvements or additions to documentation
 
   - name: released
     color: 0052CC # TODO colour

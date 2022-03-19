@@ -41,4 +41,4 @@ jobs:
       - name: Label PR
         uses: bcoe/conventional-release-labels@v1.2.2
         with:
-          type_labels: '{ "feat": "feature", "fix": "fix" }'
+          type_labels: '{ "feat": "feature", "fix": "fix", "docs": "documentation" }'

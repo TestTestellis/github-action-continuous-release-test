@@ -13,10 +13,12 @@ plugins:
           release: patch
   - - "@semantic-release/release-notes-generator"
     - preset: conventionalcommits
-#      presetConfig:
-#        types:
-#          - type: refactor
-#            section: Internal
+      presetConfig:
+        types:
+          - type: refactor
+            section: Internal
+          - type: ci
+            section: Internal
 
   - "@semantic-release/github"
   - "@semantic-release/changelog"

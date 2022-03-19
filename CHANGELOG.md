@@ -1,3 +1,10 @@
+### [0.2.3](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v0.2.2...v0.2.3) (2022-03-19)
+
+
+### Internal
+
+* add changelog rules ([3fd8365](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/3fd83658d1e70893fd020582e5a782a9be1f4ce4))
+
 ### [0.2.2](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v0.2.1...v0.2.2) (2022-03-19)
 
 ## [0.2.1](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v0.2.0...v0.2.1) (2022-03-19)

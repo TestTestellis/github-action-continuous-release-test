@@ -63,7 +63,15 @@ labels:
     color: 0052CC # TODO colour
     description: "Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)"
 
+  - name: released
+    color: 0052CC # TODO colour
+    description: Released by Semantic Release
+
 # End PR labels
+
+  - name: semantic-release
+    color: 0052CC # TODO colour
+    description: Issue created by Semantic Release
 
   - name: feature-request
     color: 0E8A16

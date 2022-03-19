@@ -27,6 +27,8 @@ jobs:
 
       with:
         semantic_version: 19.0.2
+        extra_plugins: |
+          "conventional-changelog-conventionalcommits"
 
 #  release:
 #    name: Release

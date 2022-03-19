@@ -22,7 +22,7 @@ jobs:
       uses: cycjimmy/semantic-release-action@v3.0.0
       # this might be needed
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
 
       with:
         semantic_version: 19.0.2

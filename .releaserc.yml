@@ -4,13 +4,13 @@ branches: main
 plugins:
   - - "@semantic-release/commit-analyzer"
     - preset: conventionalcommits
-#      releaseRules:
-#        - type: refactor
-#          release: patch
-#        - type: build
-#          release: patch
-#        - type: ci
-#          release: patch
+      releaseRules:
+        - type: refactor
+          release: patch
+        - type: build
+          release: patch
+        - type: ci
+          release: patch
   - - "@semantic-release/release-notes-generator"
     - preset: conventionalcommits
 #      presetConfig:

@@ -1,3 +1,10 @@
+## [0.4.0](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v0.3.0...v0.4.0) (2022-03-19)
+
+
+### Features
+
+* a change ([b7be8ec](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/b7be8ecfa03e34c70e6662c191ecea06022b3940))
+
 ## [0.3.0](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v0.2.3...v0.3.0) (2022-03-19)
 
 ### [0.2.3](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v0.2.2...v0.2.3) (2022-03-19)

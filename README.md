@@ -6,7 +6,7 @@ Test
 
 Hi
 
-[![Main](https://github.com/AkiKanellis/github-action-continuous-release-test/actions/workflows/main.yml/badge.svg)](https://github.com/AkiKanellis/github-action-continuous-release-test/actions/workflows/main.yml)
+[![Main](https://github.com/AkiKanellis/github-action-continuous-release-test/actions/workflows/on-main-push.yml/badge.svg)](https://github.com/AkiKanellis/github-action-continuous-release-test/actions/workflows/on-main-push.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 My personal ansible setup for my workstations and servers.

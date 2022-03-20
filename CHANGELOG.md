@@ -1,3 +1,14 @@
+## [2.0.0](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v1.1.0...v2.0.0) (2022-03-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* but breaking change!
+
+### Features
+
+* a feature ([dc87897](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/dc87897e87ea04a801e87c94552b4664d23d060c))
+
 ## [1.1.0](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v1.0.4...v1.1.0) (2022-03-20)
 
 

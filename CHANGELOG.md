@@ -1,3 +1,10 @@
+### [2.0.1](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.0...v2.0.1) (2022-03-20)
+
+
+### Build System
+
+* move preset to top level ([a020a52](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/a020a5271d722ba2b36a2f17614577328658b3b8))
+
 ## [2.0.0](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v1.1.0...v2.0.0) (2022-03-20)
 
 

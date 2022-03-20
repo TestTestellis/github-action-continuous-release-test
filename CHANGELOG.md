@@ -1,3 +1,15 @@
+### [2.0.6](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.5...v2.0.6) (2022-03-20)
+
+
+### Documentation
+
+* some change ([1dabb83](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/1dabb830a3ac80f33657ad0f0d1c5f47655df200))
+
+
+### Build System
+
+* some more change ([0282037](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/02820375ff8fab9539d6c7284ab597dc94c10bba))
+
 ### [2.0.5](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.4...v2.0.5) (2022-03-20)
 
 

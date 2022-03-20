@@ -1,3 +1,10 @@
+### [1.0.2](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v1.0.1...v1.0.2) (2022-03-20)
+
+
+### Build System
+
+* add explanation comment ([f7ef7fa](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/f7ef7fab942a9d23f3d50cbbcbb3b75f399369f3))
+
 ### [1.0.1](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v1.0.0...v1.0.1) (2022-03-20)
 
 

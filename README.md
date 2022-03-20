@@ -4,7 +4,7 @@ Test
 
 # GitHub action continuous release test
 
-Hi
+Hi 3
 
 [![Main](https://github.com/AkiKanellis/github-action-continuous-release-test/actions/workflows/on-main-push.yml/badge.svg)](https://github.com/AkiKanellis/github-action-continuous-release-test/actions/workflows/on-main-push.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

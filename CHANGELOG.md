@@ -1,3 +1,10 @@
+### [1.0.1](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v1.0.0...v1.0.1) (2022-03-20)
+
+
+### Build System
+
+* expose all changes in changelog ([5157697](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/515769748067ce671a7bd122f2acf1222c00841b))
+
 ## [1.0.0](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v0.5.0...v1.0.0) (2022-03-20)
 
 

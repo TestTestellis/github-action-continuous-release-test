@@ -26,41 +26,41 @@ repository:
   enable_vulnerability_alerts: true
 
 labels:
-# Start PR labels
+  # PR labels
   - name: breaking
     color: D93F0B
     description: Breaking change
 
   - name: feature
     color: 0E8A16
-    description: A new feature
+    description: New feature
 
   - name: performance
-    color: 0052CC # TODO colour
-    description: A code change that improves performance
+    color: 0E8A16
+    description: Code change that improves performance
 
   - name: fix
-    color: B60205 # TODO colour
-    description: A bug fix
+    color: B60205
+    description: Bug fix
 
   - name: refactor
-    color: 0052CC # TODO colour
-    description: A code change that neither fixes a bug nor adds a feature
+    color: D4C5F9
+    description: Code change that neither fixes a bug nor adds a feature
 
   - name: build
-    color: 0052CC # TODO colour
+    color: C5DEF5
     description: Changes that affect the build system or external dependencies
 
   - name: ci
-    color: 0052CC # TODO colour
+    color: BFD4F2
     description: Changes to our CI configuration files and scripts
 
   - name: revert
-    color: 0052CC # TODO colour
+    color: B60205
     description: Revert of a commit
 
   - name: test
-    color: 0052CC # TODO colour
+    color: BFDADC
     description: Adding missing tests or correcting existing tests
 
   - name: documentation
@@ -68,18 +68,17 @@ labels:
     description: Improvements or additions to documentation
 
   - name: released
-    color: 0052CC # TODO colour
+    color: 5319E7
     description: Released by Semantic Release
 
-# End PR labels
-
+  # Issue labels
   - name: semantic-release
-    color: 0052CC # TODO colour
+    color: 5319E7
     description: Issue created by Semantic Release
 
   - name: feature-request
     color: 0E8A16
-    description: A feature request
+    description: Feature request
 
   - name: bug
     color: B60205
@@ -103,7 +102,7 @@ labels:
 
   - name: stale
     color: FBCA04
-    description: A stale issue or pull request
+    description: Stale issue or pull request
 
   - name: invalid
     color: FFFFFF

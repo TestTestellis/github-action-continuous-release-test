@@ -42,5 +42,5 @@ jobs:
               "build": "build",
               "ci": "ci"
               "test": "test",
-              "docs": "documentation",
+              "docs": "documentation"
             }

@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v1.0.4...v1.1.0) (2022-03-20)
+
+
+### Features
+
+* a feature ([4c4ad14](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/4c4ad147b7becdc8814ab4a4107a33170b3238d9))
+
 ### [1.0.4](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v1.0.3...v1.0.4) (2022-03-20)
 
 

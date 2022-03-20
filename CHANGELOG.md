@@ -1,3 +1,16 @@
+## [1.0.0](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v0.5.0...v1.0.0) (2022-03-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* some breaking change here
+* breaking change
+
+### Features
+
+* another breaking change ([a660214](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/a660214445c4c94b0b3fb3b7e6b2bc2e361d7e16))
+* breaking change ([d453cf0](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/d453cf02b6ebe7fb57650fbf7b0ac7a1c5285355))
+
 ## [0.5.0](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v0.4.0...v0.5.0) (2022-03-19)
 
 

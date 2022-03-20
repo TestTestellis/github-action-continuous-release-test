@@ -1,3 +1,11 @@
+### [2.0.3](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.2...v2.0.3) (2022-03-20)
+
+
+### Build System
+
+* remove unused release-drafter ([45f1cc2](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/45f1cc22035c3144f14139d052e21ad00c03bc28))
+* standardise workflow names ([46f88a1](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/46f88a18c34f8615c9bbd07c716f4cbb4544469d))
+
 ### [2.0.2](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.1...v2.0.2) (2022-03-20)
 
 

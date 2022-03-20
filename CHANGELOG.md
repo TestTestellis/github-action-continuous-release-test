@@ -1,3 +1,20 @@
+### [2.0.7](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.6...v2.0.7) (2022-03-20)
+
+
+### Miscellaneous Chores
+
+* update .gitignore ([07ef8ea](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/07ef8ea2f988309182631e6130a10300b0827f95))
+
+
+### Build System
+
+* add missing job and step names ([c3ab144](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/c3ab144db394bdaf306e198743f0a2c28eca96e4))
+
+
+### Code Refactoring
+
+* remove space ([af1efa4](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/af1efa48e4c3c77eca85b0d3ba990151442c5b73))
+
 ### [2.0.6](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.5...v2.0.6) (2022-03-20)
 
 

@@ -53,7 +53,7 @@ labels:
 
   - name: ci
     color: BFD4F2
-    description: Changes to our CI configuration files and scripts
+    description: Changes to the CI configuration files and scripts
 
   - name: revert
     color: B60205

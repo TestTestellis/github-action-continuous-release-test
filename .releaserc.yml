@@ -16,7 +16,10 @@ plugins:
       presetConfig:
         # this overrides the entire `types` property so all the types have to be redefined
         types:
+          # default types
           - type: feat
+            section: Features
+          - type: feature
             section: Features
           - type: fix
             section: Bug Fixes
@@ -24,6 +27,8 @@ plugins:
             section: Performance Improvements
           - type: revert
             section: Reverts
+
+          # exposed types that were hidden by default
           - type: docs
             section: Documentation
           - type: style

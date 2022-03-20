@@ -2,11 +2,11 @@
 name: Build PR Target
 "on":
   pull_request_target:
+    branches: [main]
     types:
       - opened
       - edited
       - synchronize
-    branches: [main]
 
 jobs:
   validate-pr-title:

@@ -19,4 +19,4 @@ jobs:
       - name: Validate branch name
         uses: deepakputhraya/action-branch-name@v1.0.0
         with:
-          regex: ^([a-z]|-)+$
+          regex: ^[a-z]+([a-z]|-)+$

@@ -5,13 +5,15 @@ name: Close Stale Issues and PRs
     - cron: 30 1 * * *
 
 jobs:
-  stale:
+  close-stale-issues-and-prs:
+    name: Close stale issues and PRs
     runs-on: ubuntu-latest
     permissions:
       issues: write
       pull-requests: write
     steps:
-      - uses: actions/stale@v4
+      - name: Close stale issues and PRs
+        uses: actions/stale@v4
         with:
           days-before-stale: 30
           days-before-close: 14

@@ -1,3 +1,10 @@
+### [1.0.4](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v1.0.3...v1.0.4) (2022-03-20)
+
+
+### Continuous Integration
+
+* another patch ([660c258](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/660c25827d6b6be6fb7574d2ffd2fca1f7c7b09a))
+
 ### [1.0.3](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v1.0.2...v1.0.3) (2022-03-20)
 
 

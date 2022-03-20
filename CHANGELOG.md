@@ -1,3 +1,11 @@
+### [2.0.2](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.1...v2.0.2) (2022-03-20)
+
+
+### Build System
+
+* add missing comma ([6f7ae9b](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/6f7ae9bcc372fda723b72afa180c0e1f84d02049))
+* remove comma ([de712f4](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/de712f45bbe70bf631e00863ce34ae30d100ea8d))
+
 ### [2.0.1](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.0...v2.0.1) (2022-03-20)
 
 

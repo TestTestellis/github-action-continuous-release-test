@@ -1,3 +1,15 @@
+### [2.0.4](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.3...v2.0.4) (2022-03-20)
+
+
+### Documentation
+
+* fix badge path ([69278a7](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/69278a7516be4aeed941dbdc20ac3a7b4fcd3778))
+
+
+### Build System
+
+* cleanup ([fd982f2](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/fd982f2996c018fbcbb5fb5f52004265fe6a58c0))
+
 ### [2.0.3](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.2...v2.0.3) (2022-03-20)
 
 

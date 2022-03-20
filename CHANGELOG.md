@@ -1,3 +1,10 @@
+### [2.0.5](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.4...v2.0.5) (2022-03-20)
+
+
+### Build System
+
+* complete label colours ([8a3d3fa](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/8a3d3fad858aa46f35088ebea480f33ebb44a852))
+
 ### [2.0.4](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.3...v2.0.4) (2022-03-20)
 
 

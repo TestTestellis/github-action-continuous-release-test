@@ -5,5 +5,5 @@
 ## Pull Request checklist
 
 - [ ] I have checked to ensure there aren't other open [Pull Requests](../../../pulls) for the same update/change
-- [ ] I have followed the [contributing guidelines](../blob/main/docs/CONTRIBUTING.md)
+- [ ] I have followed the [contributing guidelines](../docs/CONTRIBUTING.md)
 - [ ] I have performed a self-review of my code

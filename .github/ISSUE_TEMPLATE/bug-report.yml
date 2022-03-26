@@ -46,12 +46,10 @@ body:
       placeholder: I believe the issue is [here](url).
 
   - type: checkboxes
-    id: test
     attributes:
       label: PR Submission
       description: |
         If the bug report is confirmed, would you be willing to submit a PR?
-         (Help can be provided if you need assistance submitting a PR)
       options:
         - label: Yes
         - label: No

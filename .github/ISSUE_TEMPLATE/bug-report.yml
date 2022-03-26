@@ -46,18 +46,16 @@ body:
       placeholder: I believe the issue is [here](url).
 
   - type: checkboxes
-    id: pr-submission
     attributes:
       label: PR Submission
       description: |
         If the bug report is confirmed, would you be willing to submit a PR?
-         (Help can be provided if you need assistance submitting a PR)
+         _(Help can be provided if you need assistance submitting a PR)_
       options:
-        - label: Yes
-        - label: No
+        - label: "Yes"
+        - label: "No"
 
   - type: checkboxes
-    id: checklist
     attributes:
       label: Checklist
       description: Check the following boxes before opening the issue.

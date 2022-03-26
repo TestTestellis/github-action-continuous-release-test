@@ -2,7 +2,7 @@
 
 <!-- Please provide a description of your changes including numbers of any relevant issues -->
 
-_Closes:_ #FirstIssueNumber, #SecondIssueNumber
+Closes: #FirstIssueNumber, #SecondIssueNumber
 
 ## Checklist
 

@@ -15,6 +15,8 @@ method with the owners of this repository before making a change.
 
 </details>
 
+---
+
 ## Code of Conduct
 
 This project and everyone that participates in it is governed by the [Code of Conduct](../../docs/CODE_OF_CONDUCT.md).

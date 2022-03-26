@@ -4,8 +4,6 @@ Thank you for taking the time to contribute to this repository!
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other
 method with the owners of this repository before making a change.
-Please note we have a [Code of Conduct](../../docs/CODE_OF_CONDUCT.md), please follow it in all your interactions with
-the project.
 
 <details open="open">
 <summary>Table of Contents</summary>

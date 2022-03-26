@@ -27,14 +27,14 @@ body:
     attributes:
       label: Expected Behaviour
       description: Please tell us the behaviour you were expecting from following the above steps.
-      placeholder: I expected to see X.
+      placeholder: I expected X.
     validations:
       required: true
 
   - type: textarea
     attributes:
       label: Actual Behaviour
-      description: Please tell us the behaviour that actually happened from following the above steps.
+      description: Please tell us the behaviour that happened by following the above steps.
       placeholder: Y happened.
     validations:
       required: true
@@ -42,7 +42,7 @@ body:
   - type: textarea
     attributes:
       label: Additional Information
-      description: Please add any additional information like logs, suspected bug source etc.
+      description: Please add any additional information like logs, suspected bug causes etc.
       placeholder: I believe the issue is [here](url).
 
   - type: checkboxes

@@ -64,5 +64,5 @@ body:
       options:
         - label: I have checked to ensure there aren't other open [Issues](../../../issues) for the same bug
           required: true
-        - label: I agree to follow this project's [Code of Conduct](../blob/main/docs/CODE_OF_CONDUCT.md)
+        - label: I have read the [Contributing Guidelines](../blob/main/docs/CONTRIBUTING.md)
           required: true

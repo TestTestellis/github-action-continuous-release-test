@@ -15,7 +15,7 @@ body:
   - type: textarea
     attributes:
       label: Steps to Reproduce
-      description: Please tell us the steps to reproduce this bug.
+      description: Tell us the steps to reproduce this bug.
       placeholder: |
         1.
         2.
@@ -26,7 +26,7 @@ body:
   - type: textarea
     attributes:
       label: Expected Behaviour
-      description: Please tell us the behaviour you were expecting from following the above steps.
+      description: Tell us the behaviour you were expecting from following the above steps.
       placeholder: I expected X to happen.
     validations:
       required: true
@@ -34,7 +34,7 @@ body:
   - type: textarea
     attributes:
       label: Actual Behaviour
-      description: Please tell us the behaviour that happened by following the above steps.
+      description: Tell us the behaviour that happened by following the above steps.
       placeholder: Instead, Y happened.
     validations:
       required: true
@@ -42,14 +42,15 @@ body:
   - type: textarea
     attributes:
       label: Additional Information
-      description: Please add any additional information like logs, suspected bug causes etc.
+      description: Add any additional information like logs, suspected bug causes etc.
       placeholder: I believe the issue is [here](url).
 
   - type: checkboxes
     attributes:
-      label: Code of Conduct
-      description: |
-        By submitting this issue, you agree to follow our [Code of Conduct](../blob/main/docs/CODE_OF_CONDUCT.md)
+      label: Checklist
+      description: Check the following boxes before opening the issue.
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: I have checked to ensure there aren't other open [Issues](../../../issues) for the same bug
+          required: true
+        - label: I agree to follow this project's [Code of Conduct](../blob/main/docs/CODE_OF_CONDUCT.md)
           required: true

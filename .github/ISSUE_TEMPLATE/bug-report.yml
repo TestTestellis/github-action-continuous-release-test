@@ -27,7 +27,7 @@ body:
     attributes:
       label: Expected Behaviour
       description: Please tell us the behaviour you were expecting from following the above steps.
-      placeholder: I expected X.
+      placeholder: I expected X to happen.
     validations:
       required: true
 
@@ -35,7 +35,7 @@ body:
     attributes:
       label: Actual Behaviour
       description: Please tell us the behaviour that happened by following the above steps.
-      placeholder: Y happened.
+      placeholder: Instead Y happened.
     validations:
       required: true
 

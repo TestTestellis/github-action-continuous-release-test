@@ -1,6 +1,6 @@
 ## Description
 
-<!-- Please provide a description of your changes including numbers of any relevant issues -->
+<!-- Please describe your changes, including numbers of any relevant issues -->
 
 Closes: #FirstIssueNumber, #SecondIssueNumber
 

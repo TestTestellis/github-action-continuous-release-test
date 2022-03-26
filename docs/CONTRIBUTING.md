@@ -35,10 +35,10 @@ To set up your development environment, please have a look at the [Developers Gu
 ## Submitting a PR
 
 1. Fork the project
-2. Create your feature branch (`git checkout -b my-amazing-feature`). We use `kebab-case` for branch names and only
+2. Create your branch (`git checkout -b my-amazing-feature`). We use `kebab-case` for branch names and only
    lowercase alphabetical characters and dashes are allowed.
 3. Implement your changes according to the [Developers Guide](DEVELOPER.md).
-4. Lints your changes and run the tests according to the [Developers Guide](DEVELOPER.md).
+4. Lint your changes and run the tests according to the [Developers Guide](DEVELOPER.md).
 5. Commit your changes (`git commit -m 'feat: add an amazing feature'`). We use the
    [Conventional Commits](https://www.conventionalcommits.org) specification.
 6. Push to your branch (`git push origin my-amazing-feature`)

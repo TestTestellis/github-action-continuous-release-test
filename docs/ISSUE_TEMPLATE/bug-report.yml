@@ -1,0 +1,53 @@
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: bug
+
+assignees:
+  - akikanellis
+
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for taking the time to fill out this bug report!
+
+  - type: textarea
+    attributes:
+      label: Steps to Reproduce
+      description: Please tell us the steps to reproduce this bug.
+      placeholder: |
+        1. 
+        2. 
+        3.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Expected Behaviour
+      description: Please tell us the behaviour you were expecting from following the above steps.
+      placeholder: I expected to see X.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Actual Behaviour
+      description: Please tell us the behaviour you that happened from following the above steps.
+      placeholder: Y happened.
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional Information
+      description: Please add any additional information like logs, suspected bug source etc.
+      placeholder: I believe the issue is [here](url).
+
+  - type: checkboxes
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](../docs/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true

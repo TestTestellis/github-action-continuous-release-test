@@ -4,7 +4,7 @@
 
 If there are any vulnerabilities in the project, don't hesitate to _report them_.
 
-1. Please email <hello@akikanellis.com>.
+1. Please email hello@akikanellis.com.
 2. Provide a description of the vulnerability, the steps you took to create the issue, affected versions, and, if known,
    mitigations for the issue etc.
 

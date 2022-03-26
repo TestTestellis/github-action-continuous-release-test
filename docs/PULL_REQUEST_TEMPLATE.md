@@ -2,7 +2,9 @@
 
 <!-- Please provide a description of your changes including numbers of any relevant issues -->
 
-## Pull Request checklist
+_Closes:_ #FirstIssueNumber, #SecondIssueNumber
+
+## Checklist
 
 - [ ] I have checked to ensure there aren't other open [Pull Requests](../../../pulls) for the same update/change
 - [ ] I have read the contributing guidelines

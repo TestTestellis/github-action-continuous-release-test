@@ -35,7 +35,7 @@ body:
     attributes:
       label: Actual Behaviour
       description: Please tell us the behaviour that happened by following the above steps.
-      placeholder: Instead Y happened.
+      placeholder: Instead, Y happened.
     validations:
       required: true
 

@@ -4,10 +4,22 @@
 help: ## Show help
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
 
+.PHONY: install
+install: ## Install project dependencies
+	echo "no-op"
+
 .PHONY: lint
 lint: ## Lint the project
 	docker run -e RUN_LOCAL=true -v $(shell pwd):/tmp/lint github/super-linter:slim-v4.9.1
 
 .PHONY: test
 test: ## Run the tests
-	echo "I am a test"
+	echo "no-op"
+
+.PHONY: run
+run: ## Run the app
+	echo "no-op"
+
+.PHONY: clean
+clean: ## Clean generated files
+	echo "no-op"

@@ -2,8 +2,9 @@
 
 Thank you for taking the time to contribute to this repository!
 
-When contributing, please first discuss the change you wish to make via issue, email, or any other method with the
-owners of this repository before making a change.
+When contributing, please first discuss the change you wish to make via issue,
+email, or any other method with the owners of this repository before making a
+change.
 
 <details open="open">
 <summary>Table of Contents</summary>

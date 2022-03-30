@@ -1,0 +1,20 @@
+---
+name: Update Dependencies
+
+"on":
+  workflow_dispatch:
+  schedule:
+    - cron: 0/15 * * * *
+
+jobs:
+  update-dependencies:
+    name: Update dependencies
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3.0.0
+
+      - name: Update dependencies
+        uses: renovatebot/github-action@v32.10.2
+        with:
+          token: ${{ secrets.RENOVATE_GITHUB_TOKEN }}

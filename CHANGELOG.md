@@ -1,3 +1,10 @@
+### [2.1.9](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.8...v2.1.9) (2022-03-30)
+
+
+### Build System
+
+* make some dependencies out of date ([b2164c8](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/b2164c8ea1a9a08ab732be1a6c52969ed8a865e8))
+
 ### [2.1.8](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.7...v2.1.8) (2022-03-30)
 
 

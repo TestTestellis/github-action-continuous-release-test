@@ -1,21 +1,40 @@
 {
   "branchPrefix": "",
-  "onboarding": false,
+  "username": "renovate-release",
+  "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
   "platform": "github",
-  "includeForks": true,
+  "repositories": [
+    "akikanellis/github-action-continuous-release-test"
+  ],
+  "separateMajorMinor": true,
+  "extends": [
+    ":preserveSemverRanges",
+    "group:all",
+    ":maintainLockFilesMonthly"
+  ],
   "packageRules": [
     {
-      "description": "lockFileMaintenance",
-      "matchUpdateTypes": [
-        "pin",
-        "digest",
-        "patch",
-        "minor",
-        "major",
-        "lockFileMaintenance"
+      "matchPackageNames": [
+        "pacote",
+        "libnpmpublish"
       ],
-      "dependencyDashboardApproval": false,
-      "stabilityDays": 0
+      "matchUpdateTypes": [
+        "major"
+      ],
+      "enabled": false
+    },
+    {
+      "matchPackageNames": [
+        "asciidoctor-opal-runtime",
+        "opal-compiler"
+      ],
+      "enabled": false
     }
-  ]
+  ],
+  "lockFileMaintenance": {
+    "extends": [
+      "group:all"
+    ],
+    "commitMessageAction": "Update"
+  }
 }

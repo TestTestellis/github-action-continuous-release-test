@@ -1,3 +1,10 @@
+### [2.1.13](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.12...v2.1.13) (2022-03-30)
+
+
+### Build System
+
+* allow numbers in branch names ([3c5daa3](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/3c5daa3d627383c08b77d880a073fbf5f69f2bb5))
+
 ### [2.1.12](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.11...v2.1.12) (2022-03-30)
 
 

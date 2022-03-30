@@ -1,3 +1,11 @@
+### [2.1.2](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.1...v2.1.2) (2022-03-30)
+
+
+### Build System
+
+* don't close issues/PRs with milestones ([5b941dc](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/5b941dce826ee4723abc371989ab691fea4c5560))
+* remove unnecessary permissions ([f99282c](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/f99282c3a539828755f6dc6d90072d69d339b6e2))
+
 ### [2.1.1](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.0...v2.1.1) (2022-03-30)
 
 

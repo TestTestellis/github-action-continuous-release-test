@@ -15,12 +15,12 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Lint
-        uses: github/super-linter@v4.9.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DEFAULT_BRANCH: main
-          IGNORE_GENERATED_FILES: true
-          IGNORE_GITIGNORED_FILES: true
-          YAML_ERROR_ON_WARNING: true
-          VALIDATE_ALL_CODEBASE: false
+#      - name: Lint
+#        uses: github/super-linter@v4.9.1
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#          DEFAULT_BRANCH: main
+#          IGNORE_GENERATED_FILES: true
+#          IGNORE_GITIGNORED_FILES: true
+#          YAML_ERROR_ON_WARNING: true
+#          VALIDATE_ALL_CODEBASE: false

@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD041 -->
+
 ## Description
 
 <!-- Please describe your changes, including numbers of any relevant issues -->

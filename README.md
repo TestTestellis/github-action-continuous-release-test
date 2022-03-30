@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD041 -->
+
 <img src="docs/images/logo.png" alt="logo" title="logo" align="right" height="152"/>
 
 # $PROJECT_TITLE

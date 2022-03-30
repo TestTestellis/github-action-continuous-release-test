@@ -24,36 +24,36 @@ Make sure you have the following installed:
 
 1. List all commands
 
-   ```shell
-   make help
-   ```
+    ```shell
+    make help
+    ```
 
 2. Install project dependencies
 
-   ```shell
-   make install
-   ```
+    ```shell
+    make install
+    ```
 
 3. Lint the project
 
-   ```shell
-   make lint
-   ```
+    ```shell
+    make lint
+    ```
 
 4. Run the tests
 
-   ```shell
-   make test
-   ```
+    ```shell
+    make test
+    ```
 
 5. Run the app
 
-   ```shell
-   make run
-   ```
+    ```shell
+    make run
+    ```
 
 6. Clean generated files
 
-   ```shell
-   make clean
-   ```
+    ```shell
+    make clean
+    ```

@@ -53,7 +53,7 @@ body:
       label: PR Submission
       description: >
         If the bug report is confirmed, would you be willing to submit a PR?
-         _(Help can be provided if you need assistance submitting a PR)_
+        _(Help can be provided if you need assistance submitting a PR)_
       options:
         - "Yes"
         - "No"

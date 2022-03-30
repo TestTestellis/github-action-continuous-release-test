@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD041 -->
+
 MIT License
 
 Copyright (c) 2022 Aki Kanellis

@@ -9,9 +9,6 @@ jobs:
   close-stale-issues-and-prs:
     name: Close stale issues and PRs
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
-      pull-requests: write
 
     steps:
       - name: Close stale issues and PRs

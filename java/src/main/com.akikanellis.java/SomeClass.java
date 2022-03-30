@@ -1,4 +1,4 @@
-package com.akikanellis.java
+package com.akikanellis.java;
 
 public class SomeClass {
   private final int anInt;

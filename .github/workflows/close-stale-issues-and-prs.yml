@@ -15,13 +15,15 @@ jobs:
 
     steps:
       - name: Close stale issues and PRs
-        uses: actions/stale@v4
+        uses: actions/stale@v5.0.0
         with:
           days-before-stale: 30
           days-before-close: 14
 
           stale-issue-label: stale
           stale-pr-label: stale
+
+          exempt-all-milestones: true
 
           stale-issue-message: >
             This issue has been automatically marked as stale because it has not

@@ -1,3 +1,10 @@
+### [2.1.10](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.9...v2.1.10) (2022-03-30)
+
+
+### Build System
+
+* fix config ([b0167ff](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/b0167ff190de1786d00aeccc360e2d56d70384d0))
+
 ### [2.1.9](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.8...v2.1.9) (2022-03-30)
 
 

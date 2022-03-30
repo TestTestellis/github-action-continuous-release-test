@@ -1,3 +1,10 @@
+### [2.1.12](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.11...v2.1.12) (2022-03-30)
+
+
+### Build System
+
+* group non-major ([90afdd5](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/90afdd598183c33aa9b3d9f0453057d5c4ab10d2))
+
 ### [2.1.11](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.10...v2.1.11) (2022-03-30)
 
 

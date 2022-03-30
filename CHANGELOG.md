@@ -1,3 +1,10 @@
+### [2.1.11](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.10...v2.1.11) (2022-03-30)
+
+
+### Build System
+
+* enable renovate debugging ([2c8ba1a](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/2c8ba1a13b72799c4d40e67efd6fa7ec8591b814))
+
 ### [2.1.10](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.9...v2.1.10) (2022-03-30)
 
 

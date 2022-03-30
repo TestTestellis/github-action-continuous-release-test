@@ -1,3 +1,10 @@
+### [2.1.8](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.7...v2.1.8) (2022-03-30)
+
+
+### Build System
+
+* update config ([54d9095](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/54d90954b72ada8023a4aca97f172c8024881256))
+
 ### [2.1.7](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.6...v2.1.7) (2022-03-30)
 
 

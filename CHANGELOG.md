@@ -1,3 +1,10 @@
+### [2.1.3](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.2...v2.1.3) (2022-03-30)
+
+
+### Build System
+
+* add renovate ([ceb760d](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/ceb760dc376bbef990670b1eefe0f25529388aee))
+
 ### [2.1.2](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.1...v2.1.2) (2022-03-30)
 
 

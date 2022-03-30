@@ -1,3 +1,10 @@
+### [2.0.13](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.12...v2.0.13) (2022-03-30)
+
+
+### Build System
+
+* add strict yamllint ([1c29fac](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/1c29facc27f65a810b2c70d9d1979cd519637b0e))
+
 ### [2.0.12](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.11...v2.0.12) (2022-03-30)
 
 

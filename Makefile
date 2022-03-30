@@ -17,6 +17,8 @@ lint: ## Lint the project
 	docker run \
 	-e RUN_LOCAL=true \
 	-e IGNORE_GENERATED_FILES=true \
+  -e IGNORE_GITIGNORED_FILES=true \
+  -e YAML_ERROR_ON_WARNING=true
 	-v $(shell pwd):/tmp/lint \
 	github/super-linter:slim-v4.9.1
 

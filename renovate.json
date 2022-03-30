@@ -1,8 +1,11 @@
 {
+  "extends": ["config:base", "group:allNonMajor"],
   "branchPrefix": "",
   "username": "renovate-release",
   "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
   "platform": "github",
+  "onboarding": false,
+  "requireConfig": false,
   "repositories": [
     "akikanellis/github-action-continuous-release-test"
   ]

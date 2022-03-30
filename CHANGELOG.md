@@ -1,3 +1,10 @@
+### [2.1.1](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.0...v2.1.1) (2022-03-30)
+
+
+### Build System
+
+* add VSCode ([8ff4c8b](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/8ff4c8bf5cf8d64ef086e2cc0f3ca5a6e9ed59e9))
+
 ## [2.1.0](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.18...v2.1.0) (2022-03-30)
 
 

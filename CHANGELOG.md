@@ -1,3 +1,10 @@
+### [2.0.11](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.10...v2.0.11) (2022-03-30)
+
+
+### Continuous Integration
+
+* enforce lint for PRs ([1034ec1](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/1034ec12bb1ed84e9d20d7e91ac9b32abf444549))
+
 ### [2.0.10](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.9...v2.0.10) (2022-03-30)
 
 

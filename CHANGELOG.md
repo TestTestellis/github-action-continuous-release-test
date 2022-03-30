@@ -1,3 +1,10 @@
+### [2.0.10](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.9...v2.0.10) (2022-03-30)
+
+
+### Continuous Integration
+
+* add linter ([2ef48bd](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/2ef48bd8514a633f584f2beb73969541bd8a6421))
+
 ### [2.0.9](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.8...v2.0.9) (2022-03-30)
 
 

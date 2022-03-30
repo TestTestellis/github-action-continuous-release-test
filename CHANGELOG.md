@@ -1,3 +1,10 @@
+### [2.0.14](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.13...v2.0.14) (2022-03-30)
+
+
+### Build System
+
+* require code owner reviews ([8938dc2](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/8938dc236f1fa36b081750e7cd4b1397f64dc380))
+
 ### [2.0.13](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.0.12...v2.0.13) (2022-03-30)
 
 

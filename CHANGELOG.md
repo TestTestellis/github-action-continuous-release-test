@@ -1,3 +1,10 @@
+### [2.1.7](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.6...v2.1.7) (2022-03-30)
+
+
+### Build System
+
+* use example config ([4de34ea](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/4de34eae2429760ec1468758fbf3b19d1f988021))
+
 ### [2.1.6](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.5...v2.1.6) (2022-03-30)
 
 

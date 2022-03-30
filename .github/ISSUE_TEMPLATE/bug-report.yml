@@ -26,7 +26,8 @@ body:
   - type: textarea
     attributes:
       label: Expected Behaviour
-      description: Tell us the behaviour you were expecting from following the above steps.
+      description: >
+        Tell us the behaviour you were expecting from following the above steps.
       placeholder: I expected X to happen.
     validations:
       required: true
@@ -34,7 +35,8 @@ body:
   - type: textarea
     attributes:
       label: Actual Behaviour
-      description: Tell us the behaviour that happened by following the above steps.
+      description: >
+        Tell us the behaviour that happened by following the above steps.
       placeholder: Instead, Y happened.
     validations:
       required: true
@@ -42,7 +44,8 @@ body:
   - type: textarea
     attributes:
       label: Additional Information
-      description: Add any additional information like logs, suspected bug causes etc.
+      description: >
+        Add any additional information like logs, suspected bug causes etc.
       placeholder: I believe the issue is [here](url).
 
   - type: dropdown
@@ -62,7 +65,11 @@ body:
       label: Checklist
       description: Check the following boxes before opening the issue.
       options:
-        - label: I have checked to ensure there aren't other open [Issues](../../../issues) for the same bug
+        - label: >
+            I have checked to ensure there aren't other open
+            [Issues](../../../issues) for the same bug
           required: true
-        - label: I have read the [Contributing Guidelines](../blob/main/docs/CONTRIBUTING.md)
+        - label: >
+            I have read the
+            [Contributing Guidelines](../blob/main/docs/CONTRIBUTING.md)
           required: true

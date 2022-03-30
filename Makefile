@@ -16,7 +16,8 @@ install: ## Install project dependencies
 lint: ## Lint the project
 	docker run \
 	-e RUN_LOCAL=true \
-	-v $(shell pwd):/tmp/lint github/super-linter:slim-v4.9.1
+	-v $(shell pwd):/tmp/lint \
+	github/super-linter:slim-v4.9.1
 
 .PHONY: test
 test: ## Run the tests

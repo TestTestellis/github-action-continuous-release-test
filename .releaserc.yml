@@ -13,7 +13,8 @@ plugins:
           release: patch
   - - "@semantic-release/release-notes-generator"
     - presetConfig:
-        # this overrides the entire `types` property so all the types have to be redefined
+        # this overrides the entire `types` property so all the types have to be
+        # redefined
         types:
           # default types
           - type: feat

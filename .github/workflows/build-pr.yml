@@ -1,5 +1,6 @@
 ---
 name: Build PR
+
 "on":
   pull_request:
     branches: [main]
@@ -8,6 +9,10 @@ name: Build PR
       - synchronize
 
 jobs:
+  lint:
+    name: Lint
+    uses: ./.github/workflows/lint.yml
+
   test:
     name: Test
     uses: ./.github/workflows/test.yml
@@ -15,6 +20,7 @@ jobs:
   validate-branch-name:
     name: Validate branch name
     runs-on: ubuntu-latest
+
     steps:
       - name: Validate branch name
         uses: deepakputhraya/action-branch-name@v1.0.0

@@ -1,5 +1,6 @@
 ---
 name: Build PR Target
+
 "on":
   pull_request_target:
     branches: [main]
@@ -12,6 +13,7 @@ jobs:
   validate-pr-title:
     name: Validate PR title
     runs-on: ubuntu-latest
+
     steps:
       - name: Validate PR title
         uses: amannn/action-semantic-pull-request@v4.2.0
@@ -21,13 +23,15 @@ jobs:
           validateSingleCommit: true
           validateSingleCommitMatchesPrTitle: true
           subjectPattern: ^(?![A-Z]).+$
-          subjectPatternError: |
-            The subject "{subject}" found in the pull request title "{title}" didn't match the configured pattern.
-            Please ensure that the subject doesn't start with an uppercase character.
+          subjectPatternError: >
+            The subject "{subject}" found in the pull request title "{title}"
+            didn't match the configured pattern. Please ensure that the subject
+            doesn't start with an uppercase character.
 
   label-pr:
     name: Label PR
     runs-on: ubuntu-latest
+
     steps:
       - name: Label PR
         uses: bcoe/conventional-release-labels@v1.2.2

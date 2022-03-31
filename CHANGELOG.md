@@ -1,3 +1,11 @@
+### [2.1.15](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.14...v2.1.15) (2022-03-31)
+
+
+### Build System
+
+* allow dots in branch names ([cff09fa](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/cff09fac063c9b9d490af117bd4aac4ed3571660))
+* automerge minor and patch ([eb5f88b](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/eb5f88b470ac997741cf11018a32dbb6d0482e36))
+
 ### [2.1.14](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.13...v2.1.14) (2022-03-31)
 
 

@@ -48,3 +48,16 @@ jobs:
               "test": "test",
               "docs": "documentation"
             }
+
+  approve-pr:
+    name: Approve PR
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Debug actor
+        run: echo "Actor is ${{ github.actor }}"
+
+      - uses: hmarr/auto-approve-action@v2.1.0
+        if: github.actor == 'akikanellis'
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}

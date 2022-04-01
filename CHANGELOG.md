@@ -1,3 +1,10 @@
+### [2.1.16](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.15...v2.1.16) (2022-04-01)
+
+
+### Build System
+
+* autoapprove PRs ([ba6eb12](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/ba6eb12487cf1678ae2c47d6451e998b5559ea89))
+
 ### [2.1.15](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.14...v2.1.15) (2022-03-31)
 
 

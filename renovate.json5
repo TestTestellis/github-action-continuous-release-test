@@ -32,18 +32,18 @@
       ],
       matchStrings: [
         "#\\s*renovate:\
-\\s*datasource=(?<datasource>.*)\
-\\s*depName=(?<depName>.*)\
-(\\s*versioning=(?<versioning>.*))?\
-[\\s\\S]*_VERSION\\s*=\\s*(?<currentValue>.*)\
+\\s*datasource=(?<datasource>.*?)\
+\\s+depName=(?<depName>.*?)\
+(\\s+versioning=(?<versioning>.*?))?\
+\\s+.*_VERSION\\s*=\\s*(?<currentValue>.*?)\
 (@(?<currentDigest>sha256:[a-f0-9]+))?\\s"
       ],
       versioningTemplate: "\
-      {{#if versioning}}\
-      {{{versioning}}}\
-      {{else}}\
-      semver\
-      {{/if}}"
+{{#if versioning}}\
+{{{versioning}}}\
+{{else}}\
+semver\
+{{/if}}"
     }
   ]
 }

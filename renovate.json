@@ -1,17 +1,25 @@
 {
   "extends": [
     "config:base",
-    "group:allNonMajor",
+
     ":automergeDigest",
     ":automergeMinor",
-    ":semanticCommitTypeAll(build)",
     ":maintainLockFilesWeekly",
+    ":semanticCommitTypeAll(build)",
+
+    "docker:pinDigests",
+
+    "group:allNonMajor",
+
     "helpers:pinGitHubActionDigests",
-    "docker:pinDigests"
+
+    "schedule:weekends"
   ],
-  "branchPrefix": "update-dependencies-",
   "platform": "github",
+  "repositories": ["AkiKanellis/github-action-continuous-release-test"],
+  "branchPrefix": "update-dependencies-",
   "onboarding": false,
   "requireConfig": false,
-  "repositories": ["AkiKanellis/github-action-continuous-release-test"]
+  "platformAutomerge": true,
+  "rollbackPrs": true
 }

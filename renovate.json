@@ -14,5 +14,5 @@
   "platform": "github",
   "onboarding": false,
   "requireConfig": false,
-  "repositories": ["akikanellis/github-action-continuous-release-test"]
+  "repositories": ["AkiKanellis/github-action-continuous-release-test"]
 }

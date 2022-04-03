@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@ec3a7ce113134d7a93b817d10a8272cb61118579 # tag=v2.4.0
 
       - name: Update dependencies
-        uses: renovatebot/github-action@b08cb0684be9508b39590dc6e781a39a393e1f47 # tag=v32.10.3
+        uses: renovatebot/github-action@c9387ab29c7bb2d7015a0bf58548d8bcd83f3492 # tag=v32.10.4
         env:
           LOG_LEVEL: debug
         with:

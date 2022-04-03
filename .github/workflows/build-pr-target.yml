@@ -58,7 +58,7 @@ jobs:
       - name: Debug actor
         run: echo "Actor is ${{ github.actor }}"
 
-      - uses: hmarr/auto-approve-action@5d04a5ca6da9aeb8ca9f31a5239b96fc3e003029 # tag=v2.1.0
+      - uses: hmarr/auto-approve-action@df19ac68bfbdb9903418acfc8aa9228f9770c65d # tag=v2.2.0
         if: github.actor == 'akikanellis'
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}

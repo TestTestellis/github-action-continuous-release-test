@@ -1,0 +1,49 @@
+{
+  $schema: "https://docs.renovatebot.com/renovate-schema.json",
+  extends: [
+    "config:base",
+
+    ":automergeDigest",
+    ":automergeMinor",
+    ":maintainLockFilesWeekly",
+    ":semanticCommitTypeAll(build)",
+
+    "docker:pinDigests",
+
+    "group:allNonMajor",
+
+    "helpers:pinGitHubActionDigests",
+
+    "schedule:weekends"
+  ],
+  platform: "github",
+  repositories: [
+    "AkiKanellis/github-action-continuous-release-test"
+  ],
+  branchPrefix: "update-dependencies-",
+  onboarding: false,
+  requireConfig: false,
+  platformAutomerge: true,
+  rollbackPrs: true,
+  regexManagers: [
+    {
+      fileMatch: [
+        "^Makefile$"
+      ],
+      matchStrings: [
+        "#\\s*renovate:\
+        \\s*datasource=(?<datasource>.*)\
+        \\s*depName=(?<depName>.*)\
+        (\\s*versioning=(?<versioning>.*))?\
+        [\\s\\S]*_VERSION\\s*=\\s*(?<currentValue>.*)\
+        (@(?<currentDigest>sha256:[a-f0-9]+))?\\s"
+      ],
+      versioningTemplate: "\
+      {{#if versioning}}\
+      {{{versioning}}}\
+      {{else}}\
+      semver\
+      {{/if}}"
+    }
+  ]
+}

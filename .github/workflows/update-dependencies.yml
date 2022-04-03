@@ -2,6 +2,7 @@
 name: Update Dependencies
 
 "on":
+  workflow_dispatch:
   schedule:
     - cron: 0/15 * * * *
 
@@ -20,5 +21,5 @@ jobs:
         env:
           LOG_LEVEL: debug
         with:
-          configurationFile: renovate.json
+          configurationFile: renovate.json5
           token: ${{ secrets.RENOVATE_GITHUB_TOKEN }}

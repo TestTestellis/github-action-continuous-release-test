@@ -1,3 +1,10 @@
+### [2.1.19](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.18...v2.1.19) (2022-04-03)
+
+
+### Build System
+
+* add a bunch of dependencies ([d66bc71](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/d66bc71a01267ed5e163c27fa6a8522597cf7708))
+
 ### [2.1.18](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.17...v2.1.18) (2022-04-03)
 
 

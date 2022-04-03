@@ -1,12 +1,18 @@
 {
-  "extends": ["config:base", "group:allNonMajor", ":automergeMinor"],
+  "extends": [
+    "config:base",
+    "group:allNonMajor",
+    ":automergeDigest",
+    ":automergeMinor",
+    ":semanticCommitTypeAll(build)",
+    ":maintainLockFilesWeekly",
+    "helpers:pinGitHubActionDigests"
+  ],
   "branchPrefix": "update-dependencies-",
   "username": "renovate-release",
   "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
   "platform": "github",
   "onboarding": false,
   "requireConfig": false,
-  "repositories": [
-    "akikanellis/github-action-continuous-release-test"
-  ]
+  "repositories": ["akikanellis/github-action-continuous-release-test"]
 }

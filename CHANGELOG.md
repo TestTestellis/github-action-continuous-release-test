@@ -1,3 +1,10 @@
+### [2.1.40](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.39...v2.1.40) (2022-04-03)
+
+
+### Build System
+
+* remove slim ([9615604](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/9615604ab315bca8419aa8c5ecdd8841df1ad977))
+
 ### [2.1.39](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.38...v2.1.39) (2022-04-03)
 
 

@@ -1,0 +1,22 @@
+---
+version: "3.9"
+services:
+  pihole:
+    image: pihole/pihole:2022.04.1
+    container_name: pihole
+    environment:
+      TZ: Europe/London
+      WEBPASSWORD: ${PIHOLE_WEBPASSWORD}
+    volumes:
+      - /docker/configs/dns/pihole/etc-pihole/:/etc/pihole/
+      - /docker/configs/dns/pihole/etc-dnsmasq.d/:/etc/dnsmasq.d/
+      - /docker/configs/dns/pihole/var-log/pihole.log:/var/log/pihole.log
+    ports:
+      - "53:53"
+      - "53:53/udp"
+      - "80:80"
+      - "443:443"
+    dns:
+      - 127.0.0.1
+      - 8.8.8.8
+    restart: always

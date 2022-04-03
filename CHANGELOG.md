@@ -1,3 +1,10 @@
+### [2.1.33](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.32...v2.1.33) (2022-04-03)
+
+
+### Build System
+
+* match super linter ([fb3cd58](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/fb3cd582d1776355c446bd8856b24cd026e61442))
+
 ### [2.1.32](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.31...v2.1.32) (2022-04-03)
 
 

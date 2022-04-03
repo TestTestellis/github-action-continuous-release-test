@@ -1,3 +1,10 @@
+### [2.1.41](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.40...v2.1.41) (2022-04-03)
+
+
+### Build System
+
+* match other makes ([ea7ca9a](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/ea7ca9ae2eefb56e359d4ade5604225061ee7792))
+
 ### [2.1.40](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.39...v2.1.40) (2022-04-03)
 
 

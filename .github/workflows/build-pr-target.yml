@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: Validate PR title
-        uses: amannn/action-semantic-pull-request@v4.2.0
+        uses: amannn/action-semantic-pull-request@0eb081bc9c35210408951834a444794406eff6f8 # tag=v4.2.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -34,7 +34,7 @@ jobs:
 
     steps:
       - name: Label PR
-        uses: bcoe/conventional-release-labels@v1.3.0
+        uses: bcoe/conventional-release-labels@576dd16fa48b1cb0464dcf7cc3eafde85ff92254 # tag=v1.3.0
         with:
           type_labels: >
             {
@@ -58,7 +58,7 @@ jobs:
       - name: Debug actor
         run: echo "Actor is ${{ github.actor }}"
 
-      - uses: hmarr/auto-approve-action@v2.1.0
+      - uses: hmarr/auto-approve-action@5d04a5ca6da9aeb8ca9f31a5239b96fc3e003029 # tag=v2.1.0
         if: github.actor == 'akikanellis'
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}

@@ -2,7 +2,8 @@
 version: "3.9"
 services:
   pihole:
-    image: pihole/pihole:2022.04.1@sha256:91fbceda5406e63ffdfb807324d48d42f0bee8041396fbfd581067af303424ea
+    # yamllint disable-line rule:line-length
+    image: pihole/pihole:2022.04.1@sha256:91fbceda5406e63ffdfb807324d48d42f0bee8041396fbfd581067af303424ea # editorconfig-checker-disable-line
     container_name: pihole
     environment:
       TZ: Europe/London

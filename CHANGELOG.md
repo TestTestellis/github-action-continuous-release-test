@@ -1,3 +1,10 @@
+### [2.1.28](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.27...v2.1.28) (2022-04-03)
+
+
+### Build System
+
+* pin docker digests ([5f45e4d](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/5f45e4d732fa4d8b6af835e53dc4b9cf2ec1c7fa))
+
 ### [2.1.27](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.26...v2.1.27) (2022-04-03)
 
 

@@ -1,3 +1,10 @@
+### [2.1.38](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.37...v2.1.38) (2022-04-03)
+
+
+### Build System
+
+* fix regex ([3fe4abb](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/3fe4abbd61dcc8be7e41b8c005cbeb22e7b0c87c))
+
 ### [2.1.37](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.36...v2.1.37) (2022-04-03)
 
 

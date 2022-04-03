@@ -1,3 +1,10 @@
+### [2.1.18](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.17...v2.1.18) (2022-04-03)
+
+
+### Build System
+
+* update renovate ([6c8df5b](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/6c8df5b1f8158537711cbc35fed1eed07c65db65))
+
 ### [2.1.17](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.16...v2.1.17) (2022-04-03)
 
 

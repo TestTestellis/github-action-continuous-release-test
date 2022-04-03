@@ -6,7 +6,8 @@
     ":automergeMinor",
     ":semanticCommitTypeAll(build)",
     ":maintainLockFilesWeekly",
-    "helpers:pinGitHubActionDigests"
+    "helpers:pinGitHubActionDigests",
+    "docker:pinDigests"
   ],
   "branchPrefix": "update-dependencies-",
   "platform": "github",

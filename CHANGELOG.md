@@ -1,3 +1,10 @@
+### [2.1.27](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.26...v2.1.27) (2022-04-03)
+
+
+### Build System
+
+* **deps:** update node.js to v17 ([#106](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/106)) ([627a088](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/627a0888632bfc77d13f7c43c9d01aca4b32a7b4))
+
 ### [2.1.26](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.25...v2.1.26) (2022-04-03)
 
 

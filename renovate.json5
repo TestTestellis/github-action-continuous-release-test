@@ -28,7 +28,7 @@
   regexManagers: [
     {
       fileMatch: [
-        "^Makefile$"
+        "(^|/)Makefile$"
       ],
       matchStrings: [
         "#\\s*renovate:\

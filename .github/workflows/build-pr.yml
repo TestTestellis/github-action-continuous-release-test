@@ -23,6 +23,7 @@ jobs:
 
     steps:
       - name: Validate branch name
-        uses: deepakputhraya/action-branch-name@e0f8db53a8e289f1ae6f6c3e8dc70a3d366fd876 # tag=v1.0.0
+        # yamllint disable-line rule:line-length
+        uses: deepakputhraya/action-branch-name@e0f8db53a8e289f1ae6f6c3e8dc70a3d366fd876 # tag=v1.0.0 editorconfig-checker-disable-line
         with:
           regex: ^[a-z]+([a-z0-9\.-])+$

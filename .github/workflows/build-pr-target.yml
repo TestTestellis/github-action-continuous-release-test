@@ -16,7 +16,8 @@ jobs:
 
     steps:
       - name: Validate PR title
-        uses: amannn/action-semantic-pull-request@0eb081bc9c35210408951834a444794406eff6f8 # tag=v4.2.0
+        # yamllint disable-line rule:line-length
+        uses: amannn/action-semantic-pull-request@0eb081bc9c35210408951834a444794406eff6f8 # tag=v4.2.0 editorconfig-checker-disable-line
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -34,7 +35,8 @@ jobs:
 
     steps:
       - name: Label PR
-        uses: bcoe/conventional-release-labels@576dd16fa48b1cb0464dcf7cc3eafde85ff92254 # tag=v1.3.0
+        # yamllint disable-line rule:line-length
+        uses: bcoe/conventional-release-labels@576dd16fa48b1cb0464dcf7cc3eafde85ff92254 # tag=v1.3.0 editorconfig-checker-disable-line
         with:
           type_labels: >
             {
@@ -58,7 +60,8 @@ jobs:
       - name: Debug actor
         run: echo "Actor is ${{ github.actor }}"
 
-      - uses: hmarr/auto-approve-action@df19ac68bfbdb9903418acfc8aa9228f9770c65d # tag=v2.2.0
+        # yamllint disable-line rule:line-length
+      - uses: hmarr/auto-approve-action@df19ac68bfbdb9903418acfc8aa9228f9770c65d # tag=v2.2.0 editorconfig-checker-disable-line
         if: github.actor == 'akikanellis'
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}

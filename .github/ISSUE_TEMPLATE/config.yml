@@ -2,9 +2,6 @@
 blank_issues_enabled: false
 contact_links:
   - name: Community Support
-    url: >
-      https://github.com
-      /akikanellis
-      /github-action-continuous-release-test
-      /discussions
+    # yamllint disable-line rule:line-length
+    url: https://github.com/akikanellis/github-action-continuous-release-test/discussions # editorconfig-checker-disable-line
     about: Please ask and answer questions here.

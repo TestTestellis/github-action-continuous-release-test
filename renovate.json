@@ -21,5 +21,18 @@
   "onboarding": false,
   "requireConfig": false,
   "platformAutomerge": true,
-  "rollbackPrs": true
+  "rollbackPrs": true,
+  "regexManagers": [
+    {
+      "fileMatch": [
+        "^Makefile$"
+      ],
+      "matchStrings": [
+        "SUPER_LINTER_VERSION\\s*=\\s*(?<currentValue>.*)"
+      ],
+      "datasourceTemplate": "docker",
+      "depNameTemplate": "github/super-linter",
+      "versioningTemplate": "docker"
+    }
+  ]
 }

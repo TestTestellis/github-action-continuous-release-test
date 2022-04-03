@@ -1,3 +1,10 @@
+### [2.1.23](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.22...v2.1.23) (2022-04-03)
+
+
+### Build System
+
+* fix username ([9841593](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/9841593d0a5cfd3f23c851150166b727b782dba9))
+
 ### [2.1.22](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.21...v2.1.22) (2022-04-03)
 
 

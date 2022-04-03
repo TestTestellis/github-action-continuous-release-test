@@ -1,3 +1,10 @@
+### [2.1.37](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.36...v2.1.37) (2022-04-03)
+
+
+### Build System
+
+* add slashes back ([d98fc33](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/d98fc331f0700d7408b39b51fb9affe1f4bfba56))
+
 ### [2.1.36](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.35...v2.1.36) (2022-04-03)
 
 

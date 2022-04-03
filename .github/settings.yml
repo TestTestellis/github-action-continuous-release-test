@@ -25,6 +25,27 @@ repository:
   enable_automated_security_fixes: true
   enable_vulnerability_alerts: true
 
+branches:
+  - name: main
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 1
+        dismiss_stale_reviews: true
+        require_code_owner_reviews: true
+      required_status_checks:
+        strict: true
+        contexts:
+          - Lint / Lint
+          - Test / Test
+          - Validate branch name
+          - Validate PR title
+      enforce_admins: false
+      required_linear_history: true
+      restrictions: null
+      allow_force_pushes: false
+      allow_deletions: false
+      required_conversation_resolution: false
+
 labels:
   # PR labels
   - name: breaking
@@ -111,25 +132,3 @@ labels:
   - name: wontfix
     color: FFFFFF
     description: This will not be worked on
-
-branches:
-  - name: main
-    protection:
-      required_pull_request_reviews:
-        required_approving_review_count: 1
-        dismiss_stale_reviews: true
-        require_code_owner_reviews: true
-      required_status_checks:
-        strict: true
-        contexts:
-          - Lint / Lint
-          - Test / Test
-          - Validate branch name
-          - Validate PR title
-          - Label PR
-      enforce_admins: false
-      required_linear_history: true
-      restrictions: null
-      allow_force_pushes: false
-      allow_deletions: false
-      required_conversation_resolution: false

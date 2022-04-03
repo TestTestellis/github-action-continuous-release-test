@@ -2,9 +2,8 @@
 name: Update Dependencies
 
 "on":
-  workflow_dispatch:
-#  schedule:
-#    - cron: 0/15 * * * *
+  schedule:
+    - cron: 0/15 * * * *
 
 jobs:
   update-dependencies:

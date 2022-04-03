@@ -1,3 +1,15 @@
+### [2.1.17](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.16...v2.1.17) (2022-04-03)
+
+
+### Miscellaneous Chores
+
+* **deps:** update all non-major dependencies ([#88](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/88)) ([7fdd731](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/7fdd731894d9baf471e8961fc8fe4ce819e8ac4e))
+
+
+### Build System
+
+* update some settings ([a99363d](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/a99363db5871c4fb2b462f2cb578ccacc766fc40))
+
 ### [2.1.16](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.15...v2.1.16) (2022-04-01)
 
 

@@ -1,3 +1,10 @@
+### [2.1.31](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.30...v2.1.31) (2022-04-03)
+
+
+### Build System
+
+* **deps:** pin dependencies ([#107](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/107)) ([0ae4c3e](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/0ae4c3e99e09ca748e4392690c7323e627777497))
+
 ### [2.1.30](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.29...v2.1.30) (2022-04-03)
 
 

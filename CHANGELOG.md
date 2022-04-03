@@ -1,3 +1,11 @@
+### [2.1.21](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.20...v2.1.21) (2022-04-03)
+
+
+### Build System
+
+* **deps:** update actions/checkout action to v3 ([#96](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/96)) ([675fcfb](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/675fcfb98da8c19a96db315368595c1484b4aa61))
+* **deps:** update all non-major dependencies ([#94](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/94)) ([1e97088](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/1e97088fd142e616013ed31e251593d6531327ed))
+
 ### [2.1.20](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.19...v2.1.20) (2022-04-03)
 
 

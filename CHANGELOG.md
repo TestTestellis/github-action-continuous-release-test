@@ -1,3 +1,10 @@
+### [2.1.32](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.31...v2.1.32) (2022-04-03)
+
+
+### Build System
+
+* fix lint issues ([f0e71ba](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/f0e71babb2cb3751fc6f3fca7957bd9700c48644))
+
 ### [2.1.31](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.30...v2.1.31) (2022-04-03)
 
 

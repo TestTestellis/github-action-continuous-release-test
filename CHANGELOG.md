@@ -1,3 +1,10 @@
+### [2.1.39](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.38...v2.1.39) (2022-04-03)
+
+
+### Build System
+
+* be explicit with versioning ([636de18](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/636de1835929bc903ffc8832b098be68af343274))
+
 ### [2.1.38](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.37...v2.1.38) (2022-04-03)
 
 

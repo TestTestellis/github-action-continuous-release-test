@@ -1,3 +1,10 @@
+### [2.1.26](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.25...v2.1.26) (2022-04-03)
+
+
+### Build System
+
+* downgrade node ([c6873b5](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/c6873b5d1042690d8c3e45996ebdce55761a90c1))
+
 ### [2.1.25](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.24...v2.1.25) (2022-04-03)
 
 

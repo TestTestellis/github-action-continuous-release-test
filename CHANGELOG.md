@@ -1,3 +1,11 @@
+### [2.1.29](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.28...v2.1.29) (2022-04-03)
+
+
+### Build System
+
+* finalise renovate ([12a9ded](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/12a9ded0fc9248d8829a97eb58db692ffc0a8a8f))
+* set renovate schedule ([47340a3](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/47340a3525e20f1d46d87dfe6539adefb8bda5e6))
+
 ### [2.1.28](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.27...v2.1.28) (2022-04-03)
 
 

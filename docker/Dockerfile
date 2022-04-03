@@ -1,4 +1,4 @@
-FROM node:16.14.2
+FROM node:17.8.0
 RUN apk add --no-cache python2 g++ make
 WORKDIR /app
 COPY . .

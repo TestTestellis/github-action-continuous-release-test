@@ -9,7 +9,7 @@
     "helpers:pinGitHubActionDigests"
   ],
   "branchPrefix": "update-dependencies-",
-  "username": "renovate-release",
+  "username": "AkiKanellis",
   "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
   "platform": "github",
   "onboarding": false,

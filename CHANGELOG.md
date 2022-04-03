@@ -1,3 +1,11 @@
+### [2.1.42](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.41...v2.1.42) (2022-04-03)
+
+
+### Build System
+
+* **deps:** update dependency github/super-linter to v4.9.2 ([#108](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/108)) ([6a1fa05](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/6a1fa05a1b57633dc8263094a3d5c951834ba8f8))
+* remove slim from main ([b359a73](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/b359a7321925497cf48c6cf231d0264bad39be04))
+
 ### [2.1.41](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.40...v2.1.41) (2022-04-03)
 
 

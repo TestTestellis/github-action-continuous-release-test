@@ -1,3 +1,10 @@
+### [2.1.36](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.35...v2.1.36) (2022-04-03)
+
+
+### Build System
+
+* remove whitespace ([e7974d4](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/e7974d473674d224c17242f54af44d98ef237932))
+
 ### [2.1.35](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.34...v2.1.35) (2022-04-03)
 
 

@@ -1,3 +1,11 @@
+### [2.1.24](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.23...v2.1.24) (2022-04-03)
+
+
+### Build System
+
+* make a dep out of date ([ac9511c](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/ac9511c9af30ad95592c73b3b515ee3ab7a3b920))
+* remove username and author ([720c9c5](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/720c9c5d586323c25951c3c9081d1d2240bdd4cf))
+
 ### [2.1.23](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.22...v2.1.23) (2022-04-03)
 
 

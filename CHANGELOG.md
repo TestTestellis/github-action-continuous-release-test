@@ -1,3 +1,10 @@
+### [2.1.52](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.51...v2.1.52) (2022-04-04)
+
+
+### Build System
+
+* **deps:** update dependency github/super-linter to vslim-v4.9.2 ([#111](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/111)) ([5961574](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/59615745e12df95d847afdae4553a5fdec576aae))
+
 ### [2.1.51](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.50...v2.1.51) (2022-04-04)
 
 

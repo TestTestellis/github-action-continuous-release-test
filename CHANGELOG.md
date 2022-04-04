@@ -1,3 +1,10 @@
+### [2.1.45](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.44...v2.1.45) (2022-04-04)
+
+
+### Build System
+
+* downgrade ([3574f4b](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/3574f4b9fc0ca89f17e70552db5c92db97f18f50))
+
 ### [2.1.44](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.43...v2.1.44) (2022-04-04)
 
 

@@ -1,3 +1,10 @@
+### [2.1.48](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.47...v2.1.48) (2022-04-04)
+
+
+### Build System
+
+* finalise versioning ([3fd5c3c](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/3fd5c3c2ac6829000fcd495b629363c853dbaf13))
+
 ### [2.1.47](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.46...v2.1.47) (2022-04-04)
 
 

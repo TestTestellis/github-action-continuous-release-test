@@ -1,3 +1,10 @@
+### [2.1.50](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.49...v2.1.50) (2022-04-04)
+
+
+### Build System
+
+* remove anchors ([89bcaa9](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/89bcaa90de28bc90cd21f8280c5c2cfbad1680a2))
+
 ### [2.1.49](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.48...v2.1.49) (2022-04-04)
 
 

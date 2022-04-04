@@ -1,3 +1,10 @@
+### [2.1.51](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.50...v2.1.51) (2022-04-04)
+
+
+### Build System
+
+* remove versioning ([4a14436](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/4a144364666e797980ae96edb25c0a890fb9c521))
+
 ### [2.1.50](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.49...v2.1.50) (2022-04-04)
 
 

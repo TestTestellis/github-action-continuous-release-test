@@ -1,3 +1,11 @@
+### [2.1.44](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.43...v2.1.44) (2022-04-04)
+
+
+### Build System
+
+* add on push ([597bea0](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/597bea0a4757a75d173eb7db2878f66bfc093655))
+* match super linter version ([d7663e3](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/d7663e312df7227f660231d90a663893e7ec68c2))
+
 ### [2.1.43](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.42...v2.1.43) (2022-04-03)
 
 

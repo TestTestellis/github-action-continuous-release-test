@@ -3,6 +3,8 @@ name: Update Dependencies
 
 "on":
   workflow_dispatch:
+  push:
+    branches: [main]
   schedule:
     - cron: 0/15 * * * *
 

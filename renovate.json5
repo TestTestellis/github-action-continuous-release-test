@@ -30,12 +30,12 @@
       fileMatch: ["(^|/)Makefile$"],
       matchStrings: [
         "\
-^\\s*#\\s*renovate:\
-\\s*datasource=(?<datasource>.*?)\
-\\s+depName=(?<depName>.*?)\
-(\\s+versioning=(?<versioning>.*?))?\
-\\s+.*_VERSION\\s*=\\s*(?<currentValue>.*?)\
-(@(?<currentDigest>sha256:[a-f0-9]+))?\\s+.*$"
+^.*renovate:\
+ datasource=(?<datasource>.*?)\
+ depName=(?<depName>.*?)\
+( versioning=(?<versioning>.*?))?\
+\n.*_VERSION\\s*=\\s*(?<currentValue>.*?)\
+(@(?<currentDigest>sha256:[a-f0-9]+))?(\\s+|\\s+.*)$"
       ],
       versioningTemplate: "\
 {{#if versioning}}\

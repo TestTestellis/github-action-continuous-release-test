@@ -1,3 +1,10 @@
+### [2.1.57](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.56...v2.1.57) (2022-04-05)
+
+
+### Reverts
+
+* "build: !!!remove config" ([2f34209](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/2f34209a08eee9d2e66747538102de6e6e8ce8dd))
+
 ### [2.1.56](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.55...v2.1.56) (2022-04-05)
 
 

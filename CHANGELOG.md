@@ -1,3 +1,11 @@
+### [2.1.54](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.53...v2.1.54) (2022-04-05)
+
+
+### Build System
+
+* add small test ([97d07a8](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/97d07a864ebd71f763aaa864acb564611e882c7f))
+* **deps:** update all non-major dependencies ([#112](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/112)) ([7aa3bb1](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/7aa3bb1d8d3417b23bc0818d4369cc280cd7c88e))
+
 ### [2.1.53](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.52...v2.1.53) (2022-04-05)
 
 

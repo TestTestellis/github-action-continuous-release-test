@@ -1,3 +1,10 @@
+### [2.1.56](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.55...v2.1.56) (2022-04-05)
+
+
+### Build System
+
+* !!!remove config ([17779ee](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/17779ee07f64fe45a18b0b93e6b37668e6def6f5))
+
 ### [2.1.55](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.54...v2.1.55) (2022-04-05)
 
 

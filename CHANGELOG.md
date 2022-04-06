@@ -1,3 +1,10 @@
+### [2.1.64](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.63...v2.1.64) (2022-04-06)
+
+
+### Build System
+
+* try semanticCommitType ([3abec9f](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/3abec9f7d0aa29e251e55dd307f6ee5d86a4aae2))
+
 ### [2.1.63](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.62...v2.1.63) (2022-04-06)
 
 

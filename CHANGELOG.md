@@ -1,3 +1,11 @@
+### [2.1.67](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.66...v2.1.67) (2022-04-06)
+
+
+### Build System
+
+* **deps:** lock file maintenance ([#121](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/121)) ([e226746](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/e226746519bd2d67c45da0bab4d0c207f135f26c))
+* **deps:** update all non-major dependencies ([#120](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/120)) ([ee9a4b9](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/ee9a4b92e68d334bb6e15de11d0a9886995ebdd6))
+
 ### [2.1.66](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.65...v2.1.66) (2022-04-06)
 
 

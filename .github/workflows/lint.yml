@@ -18,7 +18,7 @@ jobs:
 
 # TODO: put back in
       - name: Lint
-        uses: github/super-linter@v4.9.1
+        uses: github/super-linter@ae4e373c56efad95924d9cc6b89624fdb2333007 # tag=v4.9.2
         if: "false"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

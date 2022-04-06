@@ -7,6 +7,7 @@
     ":automergeMinor",
     ":maintainLockFilesWeekly",
     ":semanticCommitTypeAll(build)",
+    ":semanticCommitType(build)",
 
     "docker:pinDigests",
 

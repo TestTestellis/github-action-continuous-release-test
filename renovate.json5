@@ -27,14 +27,18 @@
   rollbackPrs: true,
   regexManagers: [
     {
-      fileMatch: ["(^|/)Makefile$"],
+      fileMatch: [
+        "(^|/)Makefile$",
+        "(^workflow-templates|\.github\/workflows)\/[^/]+\.ya?ml$",
+        "(^|\/)action\.ya?ml$"
+      ],
       matchStrings: [
         "\
 .*renovate:\
  datasource=(?<datasource>.*?)\
  depName=(?<depName>.*?)\
 ( versioning=(?<versioning>.*?))?\
-\n.*_VERSION\\s*=\\s*(?<currentValue>.*?)\
+\n.*version\\s*(=|:)\\s*(?<currentValue>.*?)\
 (@(?<currentDigest>sha256:[a-f0-9]+))?(\\s+|\\s+.*)"
       ],
       versioningTemplate: "\

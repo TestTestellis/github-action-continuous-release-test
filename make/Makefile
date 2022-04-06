@@ -1,7 +1,7 @@
 .DEFAULT_GOAL := help
 
-# renovate: datasource=docker depName=github/super-linter versioning=docker
-SUPER_LINTER_VERSION = v4.9.2
+# renovate: datasource=docker depName=github/super-linter
+SUPER_LINTER_VERSION = v4.9.0
 
 .PHONY: help
 help: ## Show help

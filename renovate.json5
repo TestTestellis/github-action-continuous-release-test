@@ -18,9 +18,7 @@
     "schedule:weekends"
   ],
   platform: "github",
-  repositories: [
-    "AkiKanellis/github-action-continuous-release-test"
-  ],
+  repositories: ["AkiKanellis/github-action-continuous-release-test"],
   branchPrefix: "update-dependencies-",
   onboarding: false,
   requireConfig: false,

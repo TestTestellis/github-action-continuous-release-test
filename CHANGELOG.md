@@ -1,3 +1,10 @@
+### [2.1.58](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.57...v2.1.58) (2022-04-06)
+
+
+### Build System
+
+* parse semantic ([696a649](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/696a64937ca44ff78d5a7404629407c0114b8041))
+
 ### [2.1.57](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.56...v2.1.57) (2022-04-05)
 
 

@@ -1,3 +1,12 @@
+### [2.1.65](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.64...v2.1.65) (2022-04-06)
+
+
+### Build System
+
+* add back semanticCommitTypeAll ([68cd382](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/68cd382cf58435ad769da7cf55138c280fe56336))
+* finish config ([24ddc0b](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/24ddc0b6ad07ccd3b3a90444d83e66a1f64a8825))
+* try removing semanticCommitTypeAll ([ed39454](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/ed39454715ea52768334f61f68f3a2f607c003fc))
+
 ### [2.1.64](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.63...v2.1.64) (2022-04-06)
 
 

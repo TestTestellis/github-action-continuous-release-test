@@ -1,3 +1,11 @@
+### [2.1.62](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.61...v2.1.62) (2022-04-06)
+
+
+### Build System
+
+* **deps:** update dependency com.google.guava:guava to v31 ([#117](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/117)) ([7fe7076](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/7fe70767a83078966a6c16c2adafcb895c43ff95))
+* **deps:** update node.js to v16 ([#118](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/118)) ([b1a7867](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/b1a7867987e48b728a7aa11a7b48201aef079dbf))
+
 ### [2.1.61](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.60...v2.1.61) (2022-04-06)
 
 

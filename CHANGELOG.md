@@ -1,3 +1,10 @@
+### [2.1.63](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.62...v2.1.63) (2022-04-06)
+
+
+### Build System
+
+* **deps:** update dependency express to v4 ([#119](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/119)) ([37bb74d](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/37bb74d74676ab946f4f091059ba8df54d0d622a))
+
 ### [2.1.62](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.61...v2.1.62) (2022-04-06)
 
 

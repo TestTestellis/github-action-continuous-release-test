@@ -37,7 +37,7 @@
  datasource=(?<datasource>.*?)\
  depName=(?<depName>.*?)\
 ( versioning=(?<versioning>.*?))?\
-\n.*version\\s*(=|:)\\s*(?<currentValue>.*?)\
+\n.*(version|Version|VERSION)\\s*(=|:)\\s*(?<currentValue>.*?)\
 (@(?<currentDigest>sha256:[a-f0-9]+))?(\\s+|\\s+.*)"
       ],
       versioningTemplate: "\

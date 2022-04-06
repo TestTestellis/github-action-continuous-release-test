@@ -1,3 +1,10 @@
+### [2.1.66](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.65...v2.1.66) (2022-04-06)
+
+
+### Build System
+
+* match all cases ([ddbfc6c](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/ddbfc6c28d4d9befd49ea7c32f1331ef0e3f7e90))
+
 ### [2.1.65](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.64...v2.1.65) (2022-04-06)
 
 

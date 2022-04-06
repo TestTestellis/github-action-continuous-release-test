@@ -33,5 +33,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_GITHUB_TOKEN }}
         with:
           # renovate: datasource=npm depName=semantic-release
-          semantic_version: 19.0.1
+          semantic_version: 19.0.2
           extra_plugins: conventional-changelog-conventionalcommits

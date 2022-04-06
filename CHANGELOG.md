@@ -1,3 +1,10 @@
+### [2.1.60](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.59...v2.1.60) (2022-04-06)
+
+
+### Build System
+
+* make a bunch of things out of date ([5d2ebb6](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/5d2ebb60ec5076070f352ea4d5dcdadaa7183de9))
+
 ### [2.1.59](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.58...v2.1.59) (2022-04-06)
 
 

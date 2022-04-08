@@ -1,7 +1,7 @@
 .DEFAULT_GOAL := help
 
 # renovate: datasource=docker depName=github/super-linter
-SUPER_LINTER_VERSION = slim-v4.9.1@sha256:f7cebe9c6fccecd11ca25541da423b50aab3592af2e33e597b21b4c20a539319 # editorconfig-checker-disable-line
+SUPER_LINTER_VERSION = slim-v4.9.2@sha256:63904379c7293d35915599bb9a27cb166431a4ef2891a960dec89adf26a3af67 # editorconfig-checker-disable-line
 
 .PHONY: help
 help: ## Show help

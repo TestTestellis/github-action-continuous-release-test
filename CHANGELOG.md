@@ -1,3 +1,11 @@
+### [2.1.71](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.70...v2.1.71) (2022-04-08)
+
+
+### Build System
+
+* add all languages ([2c8d666](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/2c8d6667c653cbf2dfc2c915660080bab643de3a))
+* don't autobuild ([794756f](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/794756f1c297b58a61e13f101f7b85336148a867))
+
 ### [2.1.70](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.69...v2.1.70) (2022-04-08)
 
 

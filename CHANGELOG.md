@@ -1,3 +1,10 @@
+### [2.1.70](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.69...v2.1.70) (2022-04-08)
+
+
+### Build System
+
+* add code scanning ([772ead6](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/772ead6ad9d3c7984f5345e4686d5539f155e9fa))
+
 ### [2.1.69](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.68...v2.1.69) (2022-04-08)
 
 

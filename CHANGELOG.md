@@ -1,3 +1,10 @@
+### [2.1.68](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.67...v2.1.68) (2022-04-08)
+
+
+### Build System
+
+* make linter outdated ([3fc86cc](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/3fc86ccb22fa071c8c2f5cd0cda060f0348e5737))
+
 ### [2.1.67](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.66...v2.1.67) (2022-04-06)
 
 

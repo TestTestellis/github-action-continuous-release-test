@@ -1,3 +1,10 @@
+### [2.1.72](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.71...v2.1.72) (2022-04-08)
+
+
+### Build System
+
+* add JS files ([1792a28](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/1792a2895585d10d9ee2c45895f148fd85f23845))
+
 ### [2.1.71](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.70...v2.1.71) (2022-04-08)
 
 

@@ -44,7 +44,7 @@ development environment.
         with the original repository
 2. Create your branch (`git checkout -b my-amazing-feature`). We use
     `kebab-case` for branch names, and only lowercase alphabetical
-    characters and dashes are allowed.
+    characters, numbers, dots and dashes are allowed.
 3. Implement your changes
     1. Make sure your changes follow the style of the project
     2. Add or modify tests where necessary

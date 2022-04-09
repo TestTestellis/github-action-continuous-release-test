@@ -2,9 +2,6 @@
 name: Update Dependencies
 
 "on":
-  workflow_dispatch:
-  push:
-    branches: [main]
   schedule:
     - cron: 0/15 * * * *
 
@@ -12,6 +9,7 @@ jobs:
   update-dependencies:
     name: Update dependencies
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         # yamllint disable-line rule:line-length
@@ -20,8 +18,6 @@ jobs:
       - name: Update dependencies
         # yamllint disable-line rule:line-length
         uses: renovatebot/github-action@400b2226691128d441fdb308a7850913feede4ce # tag=v32.17.0 editorconfig-checker-disable-line
-        env:
-          LOG_LEVEL: debug
         with:
           configurationFile: renovate.json5
           token: ${{ secrets.RENOVATE_GITHUB_TOKEN }}

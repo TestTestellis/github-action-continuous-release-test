@@ -29,7 +29,7 @@
       description: "Any other file with dependencies",
       fileMatch: [
         /* eslint-disable jsonc/no-useless-escape */
-        "(^|/)Makefile$",
+        "(^|/)justfile$",
         "(^workflow-templates|\.github\/workflows)\/[^/]+\.ya?ml$",
         "(^|\/)action\.ya?ml$"
         /* eslint-enable jsonc/no-useless-escape */
@@ -40,8 +40,9 @@
 \\sdatasource=(?<datasource>.*?)\
 \\sdepName=(?<depName>.*?)\
 (\\sversioning=(?<versioning>.*?))?\
-\n.*(version|Version|VERSION)\\s*(=|:)\\s*(?<currentValue>.*?)\
-(@(?<currentDigest>sha256:[a-f0-9]+))?(\\s+|\\s+.*)"
+\n.*(version|Version|VERSION)\\s*(:=|=|:)\\s*\"?(?<currentValue>.*?)\
+(@(?<currentDigest>sha256:[a-f0-9]+))?\"?\
+(\\s+|\\s+.*)"
       ],
       versioningTemplate: "\
 {{#if versioning}}\

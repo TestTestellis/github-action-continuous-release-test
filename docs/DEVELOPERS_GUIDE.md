@@ -20,41 +20,42 @@ Make sure you have the following installed:
 * [Software 1](https://www.python.org/downloads/)
 * [Software 2](https://www.virtualbox.org/wiki/Downloads)
 * [Software 3](https://www.vagrantup.com/docs/installation)
+* [Just](https://github.com/casey/just#installation)
 
 ## Useful Commands
 
 1. List all commands
 
     ```shell
-    make help
+    just
     ```
 
 2. Install project dependencies
 
     ```shell
-    make install
+    just install
     ```
 
 3. Lint the project
 
     ```shell
-    make lint
+    just lint
     ```
 
 4. Run the tests
 
     ```shell
-    make test
+    just test
     ```
 
 5. Run the app
 
     ```shell
-    make run
+    just run
     ```
 
 6. Clean generated files
 
     ```shell
-    make clean
+    just clean
     ```

@@ -1,3 +1,10 @@
+## [3.1.2](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v3.1.1...v3.1.2) (2022-04-09)
+
+
+### Bug Fixes
+
+* fix ([c625eeb](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/c625eeb09a34117a54052a636c5fd86989eb2b80))
+
 ## [3.1.1](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v3.1.0...v3.1.1) (2022-04-09)
 
 

@@ -2,7 +2,7 @@
 name: Feature Request
 description: Request a new feature or enhancement
 title: "feat: <title>"
-labels: feature-request
+labels: [feature-request]
 
 assignees:
   - akikanellis

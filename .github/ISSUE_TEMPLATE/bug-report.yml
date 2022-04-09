@@ -2,7 +2,7 @@
 name: Bug Report
 description: File a bug report
 title: "bug: <title>"
-labels: bug
+labels: [bug]
 
 assignees:
   - akikanellis

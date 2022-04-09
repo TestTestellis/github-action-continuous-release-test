@@ -56,13 +56,13 @@ labels:
     color: 0E8A16
     description: New feature
 
-  - name: performance
-    color: 0E8A16
-    description: Code change that improves performance
-
   - name: fix
     color: B60205
     description: Bug fix
+
+  - name: performance
+    color: 0E8A16
+    description: Code change that improves performance
 
   - name: refactor
     color: D4C5F9
@@ -74,11 +74,11 @@ labels:
 
   - name: ci
     color: BFD4F2
-    description: Changes to the CI configuration files and scripts
+    description: Changes to our CI configuration files and scripts
 
   - name: revert
     color: B60205
-    description: Revert of a commit
+    description: Reverts a previous commit
 
   - name: test
     color: BFDADC
@@ -87,6 +87,10 @@ labels:
   - name: documentation
     color: 0052CC
     description: Improvements or additions to documentation
+
+  - name: chore
+    color: 0052CC
+    description: Other changes that don't modify src or test files
 
   - name: released
     color: 5319E7

@@ -1,3 +1,11 @@
+### [3.0.3](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v3.0.2...v3.0.3) (2022-04-09)
+
+
+### Reverts
+
+* revert ([5d8cb75](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/5d8cb751f052e0ed22c3da727ce51c5196ba8444))
+* revert ([937e3e4](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/937e3e48b8345b91d3d32b0c45729f4a1250a9dd))
+
 ### [3.0.2](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v3.0.1...v3.0.2) (2022-04-09)
 
 

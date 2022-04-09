@@ -1,3 +1,10 @@
+### [2.1.79](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.78...v2.1.79) (2022-04-09)
+
+
+### Build System
+
+* clean up workflows ([c901737](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/c9017371d5dab110f5d6fdca1aed9687e3b8aea8))
+
 ### [2.1.78](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.77...v2.1.78) (2022-04-09)
 
 

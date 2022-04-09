@@ -1,3 +1,10 @@
+### [2.1.73](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.72...v2.1.73) (2022-04-09)
+
+
+### Build System
+
+* **deps:** update all non-major dependencies ([#124](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/124)) ([28ed869](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/28ed869b5ffcd4b3ad23b15494f14ee8082f0f30))
+
 ### [2.1.72](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.71...v2.1.72) (2022-04-08)
 
 

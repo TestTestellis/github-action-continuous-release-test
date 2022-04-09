@@ -1,3 +1,20 @@
+### [4.0.5](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.0.4...v4.0.5) (2022-04-09)
+
+
+### Build System
+
+* clean up justfile ([13aca31](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/13aca318bbe8bc5c6d5ac93cb1bade5327e31ea0))
+* **deps:** pin extractions/setup-just action to v1.4.0 ([#128](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/128)) ([fbafd0a](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/fbafd0a30747f36d984b86422422ece807d0868d))
+
+
+### Continuous Integration
+
+* more cleanup ([8444930](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/8444930a9f418cb74bdfd7588de14617b442e828))
+
+
+
+### [4.0.5](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.0.4...v4.0.5) (2022-04-09)
+
 ### [4.0.4](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.0.3...v4.0.4) (2022-04-09)
 
 

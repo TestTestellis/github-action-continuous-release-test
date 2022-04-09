@@ -1,3 +1,10 @@
+### [2.1.75](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.74...v2.1.75) (2022-04-09)
+
+
+### Build System
+
+* **deps:** roll back github/codeql-action action to v2.1.8 ([#123](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/123)) ([2353063](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/2353063d8ad1e6a6f91cf6c500b9d49fd4c86628))
+
 ### [2.1.74](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.73...v2.1.74) (2022-04-09)
 
 

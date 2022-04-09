@@ -1,3 +1,10 @@
+## [3.1.1](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v3.1.0...v3.1.1) (2022-04-09)
+
+
+### Performance Improvements
+
+* perf ([a4c8ab6](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/a4c8ab665fdbf8e421165e87e978cee09caa6274))
+
 # [3.1.0](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v3.0.3...v3.1.0) (2022-04-09)
 
 

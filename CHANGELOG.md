@@ -1,3 +1,19 @@
+### [4.0.1](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.0.0...v4.0.1) (2022-04-09)
+
+
+### Miscellaneous Chores
+
+* chore ([2dcc67e](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/2dcc67e6e99061345b1d36dbd3401c3aa9da963d))
+
+
+### Build System
+
+* add customizations back ([1cb6c47](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/1cb6c47f3eb441aa9990de87788c5080238a9b86))
+
+
+
+### [4.0.1](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.0.0...v4.0.1) (2022-04-09)
+
 # [4.0.0](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v3.1.3...v4.0.0) (2022-04-09)
 
 

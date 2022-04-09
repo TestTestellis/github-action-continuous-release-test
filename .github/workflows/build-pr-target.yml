@@ -43,11 +43,12 @@ jobs:
             {
               "breaking": "breaking",
               "feat": "feature",
-              "perf": "performance",
               "fix": "fix",
+              "perf": "performance",
               "refactor": "refactor",
               "build": "build",
               "ci": "ci",
+              "revert": "revert",
               "test": "test",
               "docs": "documentation",
               "chore": "chore"

@@ -1,3 +1,13 @@
+# [4.0.0](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v3.1.3...v4.0.0) (2022-04-09)
+
+
+* feat!: generate ([e90276a](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/e90276a9149c2cb372f00268c9e006b31edc0104))
+
+
+### BREAKING CHANGES
+
+* whaaat
+
 ## [3.1.3](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v3.1.2...v3.1.3) (2022-04-09)
 
 

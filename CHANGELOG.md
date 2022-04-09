@@ -1,3 +1,14 @@
+### [4.0.4](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.0.3...v4.0.4) (2022-04-09)
+
+
+### Build System
+
+* **deps:** update dependency just to v1.1.2 ([#129](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/129)) ([077a42b](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/077a42b439152af22a42d6fad0634ae29457c514))
+
+
+
+### [4.0.4](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.0.3...v4.0.4) (2022-04-09)
+
 ### [4.0.3](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.0.2...v4.0.3) (2022-04-09)
 
 

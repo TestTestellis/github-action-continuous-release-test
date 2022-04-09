@@ -1,3 +1,15 @@
+## [3.0.0](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.2.0...v3.0.0) (2022-04-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* exclamation
+
+### Features
+
+* exclamation ([604ca4a](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/604ca4a7182039c2ee1a86bb97b5815fb3342550))
+* feature ([ffb9fd4](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/ffb9fd417fd24a6cd47814db602c8ffda904b9e2))
+
 ## [2.2.0](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.79...v2.2.0) (2022-04-09)
 
 

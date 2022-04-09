@@ -11,8 +11,10 @@ insert_final_newline = true
 max_line_length = 80
 trim_trailing_whitespace = true
 
+ij_yaml_spaces_within_brackets = false
+
 [*.md]
-max_line_length = unset
+max_line_length = off
 
 [Makefile]
 indent_style = tab

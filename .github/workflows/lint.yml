@@ -16,9 +16,10 @@ jobs:
         with:
           fetch-depth: 0
 
-# TODO: put back in
+      # TODO: put back in
       - name: Lint
-        uses: github/super-linter@ae4e373c56efad95924d9cc6b89624fdb2333007 # tag=v4.9.2
+        # yamllint disable-line rule:line-length
+        uses: github/super-linter@ae4e373c56efad95924d9cc6b89624fdb2333007 # tag=v4.9.2 editorconfig-checker-disable-line
         if: "false"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

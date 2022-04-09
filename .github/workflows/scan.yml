@@ -22,10 +22,10 @@ jobs:
         uses: github/codeql-action/init@1ed1437484560351c5be56cf73a48a279d116b78 # tag=v2.1.8 editorconfig-checker-disable-line
         with:
           languages: javascript
-#          languages: go, javascript, csharp, python, cpp, java
+      # languages: go, javascript, csharp, python, cpp, java
 
-#      - name: Autobuild
-#        uses: github/codeql-action/autobuild@v2
+      # - name: Autobuild
+      # uses: github/codeql-action/autobuild@v2
 
       - name: Perform CodeQL Analysis
         # yamllint disable-line rule:line-length

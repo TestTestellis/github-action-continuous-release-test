@@ -51,7 +51,7 @@ jobs:
               "docs": "documentation"
             }
 
-# todo, check pr target types
+  # TODO: check pr target types
   approve-pr:
     name: Approve PR
     runs-on: ubuntu-latest

@@ -1,3 +1,10 @@
+### [2.1.77](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.76...v2.1.77) (2022-04-09)
+
+
+### Code Refactoring
+
+* fix lint issues ([6e35265](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/6e35265d0ee111e1f106368028191170e1cc657e))
+
 ### [2.1.76](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.75...v2.1.76) (2022-04-09)
 
 

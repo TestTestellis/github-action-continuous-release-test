@@ -1,3 +1,19 @@
+## [4.2.0](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.1.0...v4.2.0) (2022-04-09)
+
+
+### Features
+
+* add just ([ebfd6b5](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/ebfd6b5f8f38e874db75b2d5e4192e4bd383dc36))
+
+
+
+## [4.2.0](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.1.0...v4.2.0) (2022-04-09)
+
+
+### Features
+
+* add just ([ebfd6b5](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/ebfd6b5f8f38e874db75b2d5e4192e4bd383dc36))
+
 ## [4.1.0](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.0.5...v4.1.0) (2022-04-09)
 
 

@@ -1,6 +1,7 @@
 # Developers Guide
 
-This document describes setting up your development environment to build and test this project.
+This document describes setting up your development environment to build and
+test this project.
 
 <details open="open">
 <summary>Table of Contents</summary>

@@ -1,3 +1,10 @@
+### [2.1.74](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.73...v2.1.74) (2022-04-09)
+
+
+### Build System
+
+* **deps:** update renovatebot/github-action action to v32.17.0 ([#125](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/125)) ([75b2ca5](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/75b2ca5c39f900aed990a4a7ada44aab4e269336))
+
 ### [2.1.73](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v2.1.72...v2.1.73) (2022-04-09)
 
 

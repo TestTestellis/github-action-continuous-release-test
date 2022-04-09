@@ -1,3 +1,14 @@
+### [4.2.1](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.2.0...v4.2.1) (2022-04-09)
+
+
+### Build System
+
+* **deps:** update dependency python to v3.10.4 ([#130](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/130)) ([4ba491b](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/4ba491b6172b08ace1a0212596fd01e8df4e6998))
+
+
+
+### [4.2.1](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.2.0...v4.2.1) (2022-04-09)
+
 ## [4.2.0](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.1.0...v4.2.0) (2022-04-09)
 
 

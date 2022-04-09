@@ -1,3 +1,20 @@
+### [4.0.2](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.0.1...v4.0.2) (2022-04-09)
+
+
+### Documentation
+
+* correct labels ([6d9bfb2](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/6d9bfb23fbf999eaa265c99adc2d0ebaf908b012))
+* fix username ([444beec](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/444beec739435cdd3f43b339091404dab3ea63e3))
+
+
+### Build System
+
+* add missing labels ([61bcc2f](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/61bcc2f4c025a33735611f653ae2af9013f6c543))
+
+
+
+### [4.0.2](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.0.1...v4.0.2) (2022-04-09)
+
 ### [4.0.1](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.0.0...v4.0.1) (2022-04-09)
 
 

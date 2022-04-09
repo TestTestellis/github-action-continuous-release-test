@@ -1,3 +1,14 @@
+### [4.0.3](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.0.2...v4.0.3) (2022-04-09)
+
+
+### Build System
+
+* add just ([#127](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/127)) ([a45bbf4](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/a45bbf48b8c893c89e5ab32a766d7f7698cec5ff))
+
+
+
+### [4.0.3](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.0.2...v4.0.3) (2022-04-09)
+
 ### [4.0.2](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.0.1...v4.0.2) (2022-04-09)
 
 

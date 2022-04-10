@@ -17,7 +17,7 @@ jobs:
 
       - name: Update dependencies
         # yamllint disable-line rule:line-length
-        uses: renovatebot/github-action@400b2226691128d441fdb308a7850913feede4ce # tag=v32.17.0 editorconfig-checker-disable-line
+        uses: renovatebot/github-action@a966d096bd20c290a6a63d9adf666709bb0f41be # tag=v32.17.1 editorconfig-checker-disable-line
         with:
           configurationFile: renovate.json5
           token: ${{ secrets.RENOVATE_GITHUB_TOKEN }}

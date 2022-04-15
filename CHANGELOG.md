@@ -1,3 +1,20 @@
+### [4.2.3](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.2.2...v4.2.3) (2022-04-15)
+
+
+### Documentation
+
+* add simple README ([ca2efdd](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/ca2efddc2c858ac40b83344c6c6e3e093a130de7))
+* make text italic ([1a3e765](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/1a3e765b56412b843a989c6af16d6f8ad71d108e))
+
+
+### Build System
+
+* enable projects ([504a517](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/504a5173147045b814d54a71c1226103d6a368ee))
+
+
+
+### [4.2.3](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.2.2...v4.2.3) (2022-04-15)
+
 ### [4.2.2](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.2.1...v4.2.2) (2022-04-10)
 
 

@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-  My personal homelab setup
+  <i>My personal homelab setup.</i>
   <br />
   <a href="https://github.com/AkiKanellis/github-action-continuous-release-test/blob/main/docs/CONTRIBUTING.md">Contributing Guidelines</a>
   ·

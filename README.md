@@ -1,17 +1,17 @@
 <!-- markdownlint-disable MD041 -->
 
 <h1 align="center">
-  <a href="https://github.com/akikanellis/github-action-continuous-release-test">
-    <img src="docs/images/logo.png" alt="Logo" width="100" height="100">
-  </a>
+    <a href="https://github.com/akikanellis/github-action-continuous-release-test">
+      <img src="docs/images/logo.png" alt="Logo" width="100" height="100">
+    </a>
 </h1>
 
 <div align="center">
-  <i>My personal homelab setup.</i>
-  <br />
-  <a href="https://github.com/AkiKanellis/github-action-continuous-release-test/blob/main/docs/CONTRIBUTING.md">Contributing Guidelines</a>
-  ·
-  <a href="https://github.com/AkiKanellis/github-action-continuous-release-test/issues/new/choose">Submit an Issue</a>
+    <i>My personal homelab setup.</i>
+    <br />
+    <a href="https://github.com/AkiKanellis/github-action-continuous-release-test/blob/main/docs/CONTRIBUTING.md">Contributing Guidelines</a>
+    ·
+    <a href="https://github.com/AkiKanellis/github-action-continuous-release-test/issues/new/choose">Submit an Issue</a>
 </div>
 
 <div align="center">

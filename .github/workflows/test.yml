@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Checkout
         # yamllint disable-line rule:line-length
-        uses: actions/checkout@a12a3943b4bdde767164f792f33f40b04645d846 # tag=v3.0.0 editorconfig-checker-disable-line
+        uses: actions/checkout@dcd71f646680f2efd8db4afa5ad64fdcba30e748 # tag=v3.0.1 editorconfig-checker-disable-line
 
       - name: Setup just
         # yamllint disable-line rule:line-length

@@ -10,6 +10,17 @@ name: Build PR Target
       - synchronize
 
 jobs:
+  validate-branch-name:
+    name: Validate branch name
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Validate branch name
+        # yamllint disable-line rule:line-length
+        uses: deepakputhraya/action-branch-name@e0f8db53a8e289f1ae6f6c3e8dc70a3d366fd876 # tag=v1.0.0 editorconfig-checker-disable-line
+        with:
+          regex: ^[a-z]+([a-z0-9\.-])+$
+
   validate-pr-title:
     name: Validate PR title
     runs-on: ubuntu-latest

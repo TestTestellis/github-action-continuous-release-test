@@ -1,3 +1,19 @@
+### [4.2.4](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.2.3...v4.2.4) (2022-04-16)
+
+
+### Documentation
+
+* fix spacing ([03b6fba](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/03b6fba8e75c8f5dcfdad0d5123c2c4657d3a3f5))
+
+
+### Build System
+
+* **deps:** update all non-major dependencies ([#133](https://github.com/AkiKanellis/github-action-continuous-release-test/issues/133)) ([b84caba](https://github.com/AkiKanellis/github-action-continuous-release-test/commit/b84caba7dfe432ff525311333502c6090855b2b3))
+
+
+
+### [4.2.4](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.2.3...v4.2.4) (2022-04-16)
+
 ### [4.2.3](https://github.com/AkiKanellis/github-action-continuous-release-test/compare/v4.2.2...v4.2.3) (2022-04-15)
 
 
